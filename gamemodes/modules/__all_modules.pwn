@@ -1,1 +1,1 @@
-#include "modules\server_security\__server_security.pwn"
+#include "modules\server_config\__server_config.pwn"

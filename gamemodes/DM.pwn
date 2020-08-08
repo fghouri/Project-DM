@@ -5,7 +5,6 @@
 
 /* ** Important includes ** */
 #include <a_samp>
-#include <helpers.inc>
 
 /* ** YSI ** */
 #include <YSI_Data\y_iterate>
