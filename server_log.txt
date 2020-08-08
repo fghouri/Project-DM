@@ -1,0 +1,224 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:45:49] filterscripts = ""  (string)
+[04:45:49] 
+[04:45:49] Server Plugins
+[04:45:49] --------------
+[04:45:49]  Loading plugin: win\FCNPC
+[04:45:49] 
+[04:45:49] -------------------------------------------------
+[04:45:49]      FCNPC - Fully Controllable NPC v1.8.2
+[04:45:49]          Windows SA-MP 0.3.7 R2
+[04:45:49]           Jan  8 2018 at 01:14:48
+[04:45:49] 
+[04:45:49]   Author:       OrMisicL (2013 - 2015)
+[04:45:49]   Continued by: ziggi (2016 - present)
+[04:45:49]   Contributors: kurta999, Neutralneu
+[04:45:49] -------------------------------------------------
+[04:45:49] 
+[04:45:49] Loading...
+[04:45:49]   Loaded.
+[04:45:49]  Loading plugin: win\mysql
+[04:45:51]   Failed.
+[04:45:51]  Loading plugin: win\nativechecker
+[04:45:51]   Loaded.
+[04:45:51]  Loading plugin: win\pawncmd
+[04:45:51] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[04:45:51]   Loaded.
+[04:45:51]  Loading plugin: win\regex
+[04:45:51] 
+
+[04:45:51] ______________________________________
+
+[04:45:51]  Regular Expression Plugin v0.2.1 loaded
+[04:45:51] ______________________________________
+
+[04:45:51]  By: Fro (c) Copyright <TBG> 2009-2011
+[04:45:51] ______________________________________
+
+[04:45:51]   Loaded.
+[04:45:51]  Loading plugin: win\sscanf
+[04:45:51] 
+
+[04:45:51]  ===============================
+
+[04:45:51]       sscanf plugin loaded.     
+
+[04:45:51]         Version:  2.10.2        
+
+[04:45:51]    (c) 2020 Alex "Y_Less" Cole  
+
+[04:45:51]  ===============================
+
+[04:45:51]   Loaded.
+[04:45:51]  Loading plugin: win\streamer
+[04:45:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[04:45:51]   Loaded.
+[04:45:51]  Loaded 6 plugins.
+
+[04:45:51] 
+[04:45:51] Filterscripts
+[04:45:51] ---------------
+[04:45:51]   Loaded 0 filterscripts.
+
+[04:45:51]    Error: Function not registered: 'PC_Init'
+[04:45:51]    Error: Function not registered: 'SSCANF_Init'
+[04:45:51]    Error: Function not registered: 'SSCANF_IsConnected'
+[04:45:51]    Error: Function not registered: 'SSCANF_Join'
+[04:45:51]    Error: Function not registered: 'SSCANF_Leave'
+[04:45:51]  
+[04:45:51]  ======================================= 
+[04:45:51]  |                                     | 
+[04:45:51]  |    Optimising code, this may take   | 
+[04:45:51]  |        a little bit of time.        | 
+[04:45:51]  |                                     | 
+[04:45:51]  |            Please wait...           | 
+[04:45:51]  |                                     | 
+[04:45:51]  |=====================================| 
+[04:45:51]  |                                     | 
+[04:45:51]  | Note that these optimisations are   | 
+[04:45:51]  | designed to improve performance     | 
+[04:45:51]  | with the JIT plugin, which you are  | 
+[04:45:51]  | not currently using.  Get it here:  | 
+[04:45:51]  |                                     | 
+[04:45:51]  |      https://git.io/jit-plugin      | 
+[04:45:51]  |                                     | 
+[04:45:51]  ======================================= 
+[04:45:51]  
+[04:45:51]  
+[04:45:51]  
+[04:45:51]  
+[04:45:51]  ======================================= 
+[04:45:51]  |                                     | 
+[04:45:51]  |        YSI version 5.03.0689        | 
+[04:45:51]  |        By Alex "Y_Less" Cole        | 
+[04:45:51]  |                                     | 
+[04:45:51]  ======================================= 
+[04:45:51]  
+[04:45:51]  --> GAMEMODE_NAME has been loaded successfully!
+[04:45:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:46:52] filterscripts = ""  (string)
+[04:46:52] 
+[04:46:52] Server Plugins
+[04:46:52] --------------
+[04:46:52]  Loading plugin: win\pawncmd
+[04:46:52] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[04:46:52]   Loaded.
+[04:46:52]  Loaded 1 plugins.
+
+[04:46:52] 
+[04:46:52] Filterscripts
+[04:46:52] ---------------
+[04:46:52]   Loaded 0 filterscripts.
+
+[04:46:52] Script[gamemodes/dm.amx]: Run time error 19: "File or function is not found"
+[04:46:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:47:07] filterscripts = ""  (string)
+[04:47:07] 
+[04:47:07] Server Plugins
+[04:47:07] --------------
+[04:47:07]  Loading plugin: win\pawncmd
+[04:47:07] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[04:47:07]   Loaded.
+[04:47:07]  Loading plugin: win\regex
+[04:47:07] 
+
+[04:47:07] ______________________________________
+
+[04:47:07]  Regular Expression Plugin v0.2.1 loaded
+[04:47:07] ______________________________________
+
+[04:47:07]  By: Fro (c) Copyright <TBG> 2009-2011
+[04:47:07] ______________________________________
+
+[04:47:07]   Loaded.
+[04:47:07]  Loading plugin: win\sscanf
+[04:47:07] 
+
+[04:47:07]  ===============================
+
+[04:47:07]       sscanf plugin loaded.     
+
+[04:47:07]         Version:  2.10.2        
+
+[04:47:07]    (c) 2020 Alex "Y_Less" Cole  
+
+[04:47:07]  ===============================
+
+[04:47:07]   Loaded.
+[04:47:07]  Loading plugin: win\streamer
+[04:47:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[04:47:07]   Loaded.
+[04:47:07]  Loaded 4 plugins.
+
+[04:47:07] 
+[04:47:07] Filterscripts
+[04:47:07] ---------------
+[04:47:07]   Loaded 0 filterscripts.
+
+[04:47:07]  
+[04:47:07]  ======================================= 
+[04:47:07]  |                                     | 
+[04:47:07]  |    Optimising code, this may take   | 
+[04:47:07]  |        a little bit of time.        | 
+[04:47:07]  |                                     | 
+[04:47:07]  |            Please wait...           | 
+[04:47:07]  |                                     | 
+[04:47:07]  |=====================================| 
+[04:47:07]  |                                     | 
+[04:47:07]  | Note that these optimisations are   | 
+[04:47:07]  | designed to improve performance     | 
+[04:47:07]  | with the JIT plugin, which you are  | 
+[04:47:07]  | not currently using.  Get it here:  | 
+[04:47:07]  |                                     | 
+[04:47:07]  |      https://git.io/jit-plugin      | 
+[04:47:07]  |                                     | 
+[04:47:07]  ======================================= 
+[04:47:07]  
+[04:47:07]  
+[04:47:07]  
+[04:47:07]  
+[04:47:07]  ======================================= 
+[04:47:07]  |                                     | 
+[04:47:07]  |        YSI version 5.03.0689        | 
+[04:47:07]  |        By Alex "Y_Less" Cole        | 
+[04:47:07]  |                                     | 
+[04:47:07]  ======================================= 
+[04:47:07]  
+[04:47:07]  --> GAMEMODE_NAME has been loaded successfully!
+[04:47:07] Number of vehicle models: 0
+[04:48:02] [connection] 192.168.18.15:50680 requests connection cookie.
+[04:48:03] [connection] incoming connection: 192.168.18.15:50680 id: 0
+[04:48:04] [join] Lucifer has joined the server (0:192.168.18.15)
+[04:48:57] [part] Lucifer has left the server (0:1)
