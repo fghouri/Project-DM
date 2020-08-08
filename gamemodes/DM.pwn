@@ -25,7 +25,7 @@ native gpci 						(playerid, serial[ ], len);
 
 main()
 {
-    printf(" --> "#SERVER_NAME" has been loaded successfully!");
+    printf(" --> "#GAMEMODE_NAME" has been loaded successfully!");
     return 1;
 }
 
