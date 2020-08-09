@@ -15,8 +15,8 @@ hook OnGameModeInit()
     {
         new szPW = 5;
         print("[MYSQL] Couldn't connect to database, Locking server.");
-        szPW += randomEx(1251, 2105);
-        printf("[FAIL-SECURE] --> Server password has been set to %s", szPW); 
+        szPW += RandomEx(1251, 5397);
+        printf("[FAIL-SAFE] --> Server password has been set to %i", szPW); 
     }
     else
     {

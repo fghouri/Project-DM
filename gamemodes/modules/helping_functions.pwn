@@ -21,10 +21,12 @@
 #define SetPlayerPosEx(%0,%1,%2,%3,%4)      SetPlayerPos(%0,%1,%2,%3),SetPlayerInterior(%0,%4)
 #define points_format(%0)                   (number_format(%0, .prefix = '\0', .decimals = 2))
 #define bool_to_string(%0)                  (%0 == true ? (COL_GREEN # "YES" # COL_WHITE) : (COL_RED # "NO" # COL_WHITE))
-#define ResetPlayerWorldBounds(%0)          (SetPlayerWorldBounds(playerid, 20000.0000, -20000.0000, 20000.0000, -20000.0000))
+#define ResetPlayerWorldBounds(%0)          (SetPlayerWorldBounds(%0, 20000.0000, -20000.0000, 20000.0000, -20000.0000))
 
 #define ReturnPlayerName(%0)                (p_PlayerName[%0])
 #define ReturnPlayerIP(%0)                  (p_PlayerIP[%0])
+
+#define thread function     // kosmk michael
 
 /* ** Variables ** */
 stock szSmallString[32];
@@ -74,7 +76,7 @@ stock SendClientMessageFormatted(playerid, color, const format[], va_args<>)
     return 0;
 }
 
-/ purpose: trim a string
+// purpose: trim a string
 stock trimString( strSrc[ ] )
 {
     new
@@ -470,7 +472,7 @@ stock getCurrentTime( )
 #define SUNDAY 1
 
 // purpose: Get day of week: Needed for weeklytime reset. 0= Monday, 6= Sunday. -1: Error (likely scripting mistake. In that case, oooops)
-getDayOfWeek()
+stock getDayOfWeek()
 {
 	new d[3];
 	getdate(d[0], d[1], d[2]);
@@ -486,16 +488,9 @@ getDayOfWeek()
 }
 
 // purpose: Check if a string is an integer
-bool:isint(input[], bool:number_only = false)
+stock bool:isint(input[])
 {
-	for (new i = 0; i < strlen(input); i++)
-	{
-	    if (input[i] >= '0' && input[i] <= '9') continue;
-		if (!number_only)
-			if (input[i] == '+' || input[i] == '-' || input[i] == '/' || input[i] == '*' || input[i] == ' ') continue;
-		return false;
-	}
-	return true;
+    return !sscanf(input, "i");
 }
 
 // purpose: check if a player is in water (credit: SuperViper)
