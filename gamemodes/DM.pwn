@@ -17,6 +17,7 @@
 #include <sscanf2>
 #include <streamer>
 #include <regex>
+#include <strlib>
 native WP_Hash						(buffer[], len, const str[]);
 native IsValidVehicle				(vehicleid);
 native gpci 						(playerid, serial[ ], len);
@@ -25,7 +26,7 @@ native gpci 						(playerid, serial[ ], len);
 
 main()
 {
-    printf(" --> "#GAMEMODE_NAME" has been loaded successfully!");
+    printf(" --> "SERVER_NAME" has been loaded successfully!");
     return 1;
 }
 
