@@ -13,10 +13,14 @@ hook OnGameModeInit()
 
     if(mysql_errno(db) != 0)
     {
-        print("[MYSQL] Couldnt connect to database");
+        new szPW = 5;
+        print("[MYSQL] Couldn't connect to database, Locking server.");
+        szPW += randomEx(1251, 2105);
+        printf("[FAIL-SECURE] --> Server password has been set to %s", szPW); 
     }
     else
     {
         print("[MYSQL] Connection established");
     }
+    return 1;
 }

@@ -22,6 +22,9 @@ native WP_Hash						(buffer[], len, const str[]);
 native IsValidVehicle				(vehicleid);
 native gpci 						(playerid, serial[ ], len);
 
+#undef MAX_PLAYERS
+#define MAX_PLAYERS 50
+
 #include "modules\__all_modules.pwn"
 
 main()
@@ -37,6 +40,7 @@ public OnGameModeInit()
 
 public OnGameModeExit()
 {
+	mysql_close(db);
 	return 1;
 }
 
