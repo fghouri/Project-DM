@@ -1,0 +1,4 @@
+[11:23:23] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''

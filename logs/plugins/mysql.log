@@ -11,3 +11,23 @@
 [20:18:01] [WARNING] mysql_connect: no password specified
 [20:18:04] [WARNING] mysql_connect: no password specified
 [22:41:53] [WARNING] mysql_connect: no password specified
+[11:03:19] [WARNING] mysql_connect: no password specified
+[11:03:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:03:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:03:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:03:36] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:10:53] [WARNING] mysql_connect: no password specified
+[11:10:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:11:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:11:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:11:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[11:22:52] [WARNING] mysql_connect: no password specified
+[11:22:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:22:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:22:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:22:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [WARNING] mysql_connect: no password specified
+[11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''

@@ -12,3 +12,4 @@ hook OnGameModeInit()
     AddPlayerClass(137, spawn_pos[0], spawn_pos[1], spawn_pos[2], 10.0, 24, 1000, 25, 1000, 34, 1000);
     return 1;
 }
+

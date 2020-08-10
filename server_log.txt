@@ -1369,3 +1369,374 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [22:43:54] [connection] incoming connection: 192.168.18.8:55589 id: 0
 [22:43:54] [join] Lucifer has joined the server (0:192.168.18.8)
 [22:44:56] [part] Lucifer has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:03:18] filterscripts = ""  (string)
+[11:03:18] 
+[11:03:18] Server Plugins
+[11:03:18] --------------
+[11:03:18]  Loading plugin: win\pawncmd
+[11:03:18] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:03:18]   Loaded.
+[11:03:18]  Loading plugin: win\regex
+[11:03:18] 
+
+[11:03:18] ______________________________________
+
+[11:03:18]  Regular Expression Plugin v0.2.1 loaded
+[11:03:18] ______________________________________
+
+[11:03:18]  By: Fro (c) Copyright <TBG> 2009-2011
+[11:03:18] ______________________________________
+
+[11:03:18]   Loaded.
+[11:03:18]  Loading plugin: win\sscanf
+[11:03:18] 
+
+[11:03:18]  ===============================
+
+[11:03:18]       sscanf plugin loaded.     
+
+[11:03:18]         Version:  2.10.2        
+
+[11:03:18]    (c) 2020 Alex "Y_Less" Cole  
+
+[11:03:18]  ===============================
+
+[11:03:18]   Loaded.
+[11:03:18]  Loading plugin: win\streamer
+[11:03:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:03:18]   Loaded.
+[11:03:18]  Loading plugin: win\mysql
+[11:03:19]  >> plugin.mysql: R41-4 successfully loaded.
+[11:03:19]   Loaded.
+[11:03:19]  Loaded 5 plugins.
+
+[11:03:19] 
+[11:03:19] Filterscripts
+[11:03:19] ---------------
+[11:03:19]   Loaded 0 filterscripts.
+
+[11:03:19]  
+[11:03:19]  ======================================= 
+[11:03:19]  |                                     | 
+[11:03:19]  |    Optimising code, this may take   | 
+[11:03:19]  |        a little bit of time.        | 
+[11:03:19]  |                                     | 
+[11:03:19]  |            Please wait...           | 
+[11:03:19]  |                                     | 
+[11:03:19]  |=====================================| 
+[11:03:19]  |                                     | 
+[11:03:19]  | Note that these optimisations are   | 
+[11:03:19]  | designed to improve performance     | 
+[11:03:19]  | with the JIT plugin, which you are  | 
+[11:03:19]  | not currently using.  Get it here:  | 
+[11:03:19]  |                                     | 
+[11:03:19]  |      https://git.io/jit-plugin      | 
+[11:03:19]  |                                     | 
+[11:03:19]  ======================================= 
+[11:03:19]  
+[11:03:19]  
+[11:03:19]  
+[11:03:19]  
+[11:03:19]  ======================================= 
+[11:03:19]  |                                     | 
+[11:03:19]  |        YSI version 5.03.0689        | 
+[11:03:19]  |        By Alex "Y_Less" Cole        | 
+[11:03:19]  |                                     | 
+[11:03:19]  ======================================= 
+[11:03:19]  
+[11:03:36] [MYSQL] Couldn't connect to database, Locking server.
+[11:03:36] [FAIL-SAFE] --> Server password has been set to 2019
+[11:03:36]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[11:03:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:10:53] filterscripts = ""  (string)
+[11:10:53] 
+[11:10:53] Server Plugins
+[11:10:53] --------------
+[11:10:53]  Loading plugin: win\pawncmd
+[11:10:53] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:10:53]   Loaded.
+[11:10:53]  Loading plugin: win\regex
+[11:10:53] 
+
+[11:10:53] ______________________________________
+
+[11:10:53]  Regular Expression Plugin v0.2.1 loaded
+[11:10:53] ______________________________________
+
+[11:10:53]  By: Fro (c) Copyright <TBG> 2009-2011
+[11:10:53] ______________________________________
+
+[11:10:53]   Loaded.
+[11:10:53]  Loading plugin: win\sscanf
+[11:10:53] 
+
+[11:10:53]  ===============================
+
+[11:10:53]       sscanf plugin loaded.     
+
+[11:10:53]         Version:  2.10.2        
+
+[11:10:53]    (c) 2020 Alex "Y_Less" Cole  
+
+[11:10:53]  ===============================
+
+[11:10:53]   Loaded.
+[11:10:53]  Loading plugin: win\streamer
+[11:10:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:10:53]   Loaded.
+[11:10:53]  Loading plugin: win\mysql
+[11:10:53]  >> plugin.mysql: R41-4 successfully loaded.
+[11:10:53]   Loaded.
+[11:10:53]  Loaded 5 plugins.
+
+[11:10:53] 
+[11:10:53] Filterscripts
+[11:10:53] ---------------
+[11:10:53]   Loaded 0 filterscripts.
+
+[11:10:53]  
+[11:10:53]  ======================================= 
+[11:10:53]  |                                     | 
+[11:10:53]  |    Optimising code, this may take   | 
+[11:10:53]  |        a little bit of time.        | 
+[11:10:53]  |                                     | 
+[11:10:53]  |            Please wait...           | 
+[11:10:53]  |                                     | 
+[11:10:53]  |=====================================| 
+[11:10:53]  |                                     | 
+[11:10:53]  | Note that these optimisations are   | 
+[11:10:53]  | designed to improve performance     | 
+[11:10:53]  | with the JIT plugin, which you are  | 
+[11:10:53]  | not currently using.  Get it here:  | 
+[11:10:53]  |                                     | 
+[11:10:53]  |      https://git.io/jit-plugin      | 
+[11:10:53]  |                                     | 
+[11:10:53]  ======================================= 
+[11:10:53]  
+[11:10:53]  
+[11:10:53]  
+[11:10:53]  
+[11:10:53]  ======================================= 
+[11:10:53]  |                                     | 
+[11:10:53]  |        YSI version 5.03.0689        | 
+[11:10:53]  |        By Alex "Y_Less" Cole        | 
+[11:10:53]  |                                     | 
+[11:10:53]  ======================================= 
+[11:10:53]  
+[11:11:10] [MYSQL] Couldn't connect to database, Locked due to false configurations.
+[11:11:10] Setting server password to: "1387"
+[11:11:10] [FAIL-SAFE] --> Server password has been set to 1387
+[11:11:10]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[11:11:10] Number of vehicle models: 0
+[11:14:26] [connection] 192.168.18.9:52921 requests connection cookie.
+[11:14:27] [connection] incoming connection: 192.168.18.9:52921 id: 0
+[11:14:28] [join] traxyy has joined the server (0:192.168.18.9)
+[11:22:47] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:22:51] filterscripts = ""  (string)
+[11:22:51] 
+[11:22:51] Server Plugins
+[11:22:51] --------------
+[11:22:51]  Loading plugin: win\pawncmd
+[11:22:51] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:22:51]   Loaded.
+[11:22:51]  Loading plugin: win\regex
+[11:22:51] 
+
+[11:22:51] ______________________________________
+
+[11:22:51]  Regular Expression Plugin v0.2.1 loaded
+[11:22:51] ______________________________________
+
+[11:22:51]  By: Fro (c) Copyright <TBG> 2009-2011
+[11:22:51] ______________________________________
+
+[11:22:51]   Loaded.
+[11:22:51]  Loading plugin: win\sscanf
+[11:22:51] 
+
+[11:22:51]  ===============================
+
+[11:22:51]       sscanf plugin loaded.     
+
+[11:22:51]         Version:  2.10.2        
+
+[11:22:51]    (c) 2020 Alex "Y_Less" Cole  
+
+[11:22:51]  ===============================
+
+[11:22:51]   Loaded.
+[11:22:51]  Loading plugin: win\streamer
+[11:22:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:22:51]   Loaded.
+[11:22:51]  Loading plugin: win\mysql
+[11:22:51]  >> plugin.mysql: R41-4 successfully loaded.
+[11:22:51]   Loaded.
+[11:22:51]  Loaded 5 plugins.
+
+[11:22:52] 
+[11:22:52] Filterscripts
+[11:22:52] ---------------
+[11:22:52]   Loaded 0 filterscripts.
+
+[11:22:52]  
+[11:22:52]  ======================================= 
+[11:22:52]  |                                     | 
+[11:22:52]  |    Optimising code, this may take   | 
+[11:22:52]  |        a little bit of time.        | 
+[11:22:52]  |                                     | 
+[11:22:52]  |            Please wait...           | 
+[11:22:52]  |                                     | 
+[11:22:52]  |=====================================| 
+[11:22:52]  |                                     | 
+[11:22:52]  | Note that these optimisations are   | 
+[11:22:52]  | designed to improve performance     | 
+[11:22:52]  | with the JIT plugin, which you are  | 
+[11:22:52]  | not currently using.  Get it here:  | 
+[11:22:52]  |                                     | 
+[11:22:52]  |      https://git.io/jit-plugin      | 
+[11:22:52]  |                                     | 
+[11:22:52]  ======================================= 
+[11:22:52]  
+[11:22:52]  
+[11:22:52]  
+[11:22:52]  
+[11:22:52]  ======================================= 
+[11:22:52]  |                                     | 
+[11:22:52]  |        YSI version 5.03.0689        | 
+[11:22:52]  |        By Alex "Y_Less" Cole        | 
+[11:22:52]  |                                     | 
+[11:22:52]  ======================================= 
+[11:22:52]  
+[11:22:52] [MYSQL] Couldn't connect to database, Server has been locked due to false configurations.
+[11:22:52] Setting server password to: "1632"
+[11:22:52] [FAIL-SAFE] --> Server password has been set to 1632
+[11:22:52]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[11:22:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:23:23] filterscripts = ""  (string)
+[11:23:23] 
+[11:23:23] Server Plugins
+[11:23:23] --------------
+[11:23:23]  Loading plugin: win\pawncmd
+[11:23:23] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:23:23]   Loaded.
+[11:23:23]  Loading plugin: win\regex
+[11:23:23] 
+
+[11:23:23] ______________________________________
+
+[11:23:23]  Regular Expression Plugin v0.2.1 loaded
+[11:23:23] ______________________________________
+
+[11:23:23]  By: Fro (c) Copyright <TBG> 2009-2011
+[11:23:23] ______________________________________
+
+[11:23:23]   Loaded.
+[11:23:23]  Loading plugin: win\sscanf
+[11:23:23] 
+
+[11:23:23]  ===============================
+
+[11:23:23]       sscanf plugin loaded.     
+
+[11:23:23]         Version:  2.10.2        
+
+[11:23:23]    (c) 2020 Alex "Y_Less" Cole  
+
+[11:23:23]  ===============================
+
+[11:23:23]   Loaded.
+[11:23:23]  Loading plugin: win\streamer
+[11:23:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:23:23]   Loaded.
+[11:23:23]  Loading plugin: win\mysql
+[11:23:23]  >> plugin.mysql: R41-4 successfully loaded.
+[11:23:23]   Loaded.
+[11:23:23]  Loaded 5 plugins.
+
+[11:23:23] 
+[11:23:23] Filterscripts
+[11:23:23] ---------------
+[11:23:23]   Loaded 0 filterscripts.
+
+[11:23:23]  
+[11:23:23]  ======================================= 
+[11:23:23]  |                                     | 
+[11:23:23]  |    Optimising code, this may take   | 
+[11:23:23]  |        a little bit of time.        | 
+[11:23:23]  |                                     | 
+[11:23:23]  |            Please wait...           | 
+[11:23:23]  |                                     | 
+[11:23:23]  |=====================================| 
+[11:23:23]  |                                     | 
+[11:23:23]  | Note that these optimisations are   | 
+[11:23:23]  | designed to improve performance     | 
+[11:23:23]  | with the JIT plugin, which you are  | 
+[11:23:23]  | not currently using.  Get it here:  | 
+[11:23:23]  |                                     | 
+[11:23:23]  |      https://git.io/jit-plugin      | 
+[11:23:23]  |                                     | 
+[11:23:23]  ======================================= 
+[11:23:23]  
+[11:23:23]  
+[11:23:23]  
+[11:23:23]  
+[11:23:23]  ======================================= 
+[11:23:23]  |                                     | 
+[11:23:23]  |        YSI version 5.03.0689        | 
+[11:23:23]  |        By Alex "Y_Less" Cole        | 
+[11:23:23]  |                                     | 
+[11:23:23]  ======================================= 
+[11:23:23]  
+[11:23:23] [MYSQL] Couldn't connect to database, Server has been locked due to false configurations.
+[11:23:23] Setting server password to: "5369"
+[11:23:23] [FAIL-SAFE] --> Server password has been set to 5369
+[11:23:23]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[11:23:23] Number of vehicle models: 0

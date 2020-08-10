@@ -35,6 +35,7 @@ main()
 
 public OnGameModeInit()
 {
+	UsePlayerPedAnims();
 	return 1;
 }
 
