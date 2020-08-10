@@ -1,1 +1,1 @@
-#include ".\register.pwn"
+#include ".\auth.pwn"

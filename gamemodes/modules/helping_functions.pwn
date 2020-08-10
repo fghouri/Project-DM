@@ -69,11 +69,10 @@ stock SendClientMessageFormatted(playerid, color, const format[], va_args<>)
     va_format(message, sizeof(message), format, va_start<3>);
 
     if(playerid == INVALID_PLAYER_ID){
-        return SendClientMessageToAll(-1, message), -1;
+        return SendClientMessageToAll(-1, message);
     } else {
-        return SendClientMessage(playerid, color, message), 1;
+        return SendClientMessage(playerid, color, message);
     }
-    return 0;
 }
 
 // purpose: trim a string

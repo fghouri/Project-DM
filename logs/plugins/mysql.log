@@ -31,3 +31,35 @@
 [11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
 [11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
 [11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:40:14] [WARNING] mysql_connect: no password specified
+[00:40:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:40:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:40:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:40:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:43:26] [WARNING] mysql_connect: no password specified
+[00:43:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:43:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:43:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:43:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:48:02] [WARNING] mysql_connect: no password specified
+[00:48:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:48:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:48:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[00:48:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:11:55] [WARNING] mysql_connect: no password specified
+[01:11:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:11:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:11:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:11:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:14:53] [WARNING] mysql_connect: no password specified
+[01:14:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:14:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:14:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:14:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:15:27] [ERROR] mysql_format: no value for specifier '%e' passed
+[01:19:07] [WARNING] mysql_connect: no password specified
+[01:19:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:19:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:19:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:19:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[01:19:36] [ERROR] mysql_format: no value for specifier '%e' passed

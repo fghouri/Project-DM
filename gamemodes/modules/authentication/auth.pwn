@@ -1,6 +1,5 @@
 #include <YSI_Coding\y_hooks>
 
-
 new p_AccountID[MAX_PLAYERS];
 
 
@@ -25,7 +24,7 @@ thread OnPlayerConnectCheck(playerid)
 
     if(!rows)
     {
-        ShowPlayerDialog(playerid, DAILOG_REGISTER, DIALOG_STYLE_INPUT, "Account - Register", "Welcome to DM server, type in password", "Register", "Quit");
+        ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_INPUT, "Account - Register", "Welcome to DM server, type in password", "Register", "Quit");
     }
     else
     {
@@ -35,17 +34,18 @@ thread OnPlayerConnectCheck(playerid)
 
 hook OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
-    if(dialogid == DAILOG_REGISTER)
+    if(dialogid == DIALOG_REGISTER)
     {
         if(!response) return Kick(playerid), 1;
 
-        if(strlen(inputtext) > 16) ShowPlayerDialog(playerid, DAILOG_REGISTER, DIALOG_STYLE_INPUT, "Account - Register", "Your Password exceeds 16 characters make sure it is wihtin 16 letters", "Register", "Quit");
+        if(strlen(inputtext) > 16) ShowPlayerDialog(playerid, DIALOG_REGISTER, DIALOG_STYLE_INPUT, "Account - Register", "Your Password exceeds 16 characters make sure it is wihtin 16 letters", "Register", "Quit");
         
         new query[101];
 
         mysql_format(db, query, sizeof(query), "INSERT INTO `USERS` (`NAME`, `PASSWORD`) VALUES ('%e', '%e')", p_PlayerName[playerid], inputtext);
         mysql_tquery(db, query, "OnPlayerRegister", "i", playerid);
     }
+    return 1;
 }
 
 
