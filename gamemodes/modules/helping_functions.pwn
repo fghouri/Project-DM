@@ -490,7 +490,7 @@ stock getDayOfWeek()
 // purpose: Check if a string is an integer
 stock bool:isint(input[])
 {
-    return !sscanf(input, "i");
+    return !sscanf(input, "{i}");
 }
 
 // purpose: check if a player is in water (credit: SuperViper)

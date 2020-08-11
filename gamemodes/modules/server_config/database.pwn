@@ -9,6 +9,7 @@ new MySQL:db;
 
 hook OnGameModeInit()
 {
+
     db = mysql_connect(HOST, USER, PW, DATABASE);
 
     if(mysql_errno(db) != 0)

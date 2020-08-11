@@ -3,3 +3,4 @@
 #include ".\classes.pwn"
 #include ".\dialogs.pwn"
 #include ".\player_variables.pwn"
+#include ".\authentication\__authentication.pwn"

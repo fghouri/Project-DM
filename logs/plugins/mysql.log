@@ -31,3 +31,21 @@
 [11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
 [11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
 [11:23:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
+[20:35:03] [WARNING] mysql_connect: no password specified
+[20:41:36] [WARNING] mysql_connect: no password specified
+[20:42:03] [ERROR] mysql_format: no value for specifier '%e' passed
+[20:42:03] [ERROR] error #1065 while executing query "": Query was empty
+[20:44:03] [WARNING] mysql_connect: no password specified
+[21:02:15] [WARNING] mysql_connect: no password specified
+[21:05:26] [WARNING] mysql_connect: no password specified
+[21:18:09] [WARNING] mysql_connect: no password specified
+[21:21:57] [WARNING] mysql_connect: no password specified
+[21:23:33] [WARNING] mysql_connect: no password specified
+[21:26:51] [WARNING] mysql_connect: no password specified
+[21:38:42] [WARNING] mysql_connect: no password specified
+[21:43:01] [WARNING] mysql_connect: no password specified
+[22:07:37] [WARNING] mysql_connect: no password specified
+[22:08:19] [ERROR] mysql_format: destination size '59' is too small
+[22:08:19] [ERROR] error #1065 while executing query "": Query was empty
+[22:08:35] [WARNING] mysql_connect: no password specified
+[22:09:32] [WARNING] mysql_connect: no password specified
