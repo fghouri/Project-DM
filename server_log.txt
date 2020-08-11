@@ -2319,3 +2319,2405 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [01:19:35] [connection] incoming connection: 127.0.0.1:62043 id: 0
 [01:19:36] [join] traxyy has joined the server (0:127.0.0.1)
 [01:20:59] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:41:01] filterscripts = ""  (string)
+[20:41:01] 
+[20:41:01] Server Plugins
+[20:41:01] --------------
+[20:41:01]  Loading plugin: win\pawncmd
+[20:41:01] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[20:41:01]   Loaded.
+[20:41:01]  Loading plugin: win\regex
+[20:41:01] 
+
+[20:41:01] ______________________________________
+
+[20:41:01]  Regular Expression Plugin v0.2.1 loaded
+[20:41:01] ______________________________________
+
+[20:41:01]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:41:01] ______________________________________
+
+[20:41:01]   Loaded.
+[20:41:01]  Loading plugin: win\sscanf
+[20:41:01] 
+
+[20:41:01]  ===============================
+
+[20:41:01]       sscanf plugin loaded.     
+
+[20:41:01]         Version:  2.10.2        
+
+[20:41:01]    (c) 2020 Alex "Y_Less" Cole  
+
+[20:41:01]  ===============================
+
+[20:41:01]   Loaded.
+[20:41:01]  Loading plugin: win\streamer
+[20:41:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:41:02]   Loaded.
+[20:41:02]  Loading plugin: win\mysql
+[20:41:02]  >> plugin.mysql: R41-4 successfully loaded.
+[20:41:02]   Loaded.
+[20:41:02]  Loaded 5 plugins.
+
+[20:41:02] 
+[20:41:02] Filterscripts
+[20:41:02] ---------------
+[20:41:02]   Loaded 0 filterscripts.
+
+[20:41:02]  
+[20:41:02]  ======================================= 
+[20:41:02]  |                                     | 
+[20:41:02]  |    Optimising code, this may take   | 
+[20:41:02]  |        a little bit of time.        | 
+[20:41:02]  |                                     | 
+[20:41:02]  |            Please wait...           | 
+[20:41:02]  |                                     | 
+[20:41:02]  |=====================================| 
+[20:41:02]  |                                     | 
+[20:41:02]  | Note that these optimisations are   | 
+[20:41:02]  | designed to improve performance     | 
+[20:41:02]  | with the JIT plugin, which you are  | 
+[20:41:02]  | not currently using.  Get it here:  | 
+[20:41:02]  |                                     | 
+[20:41:02]  |      https://git.io/jit-plugin      | 
+[20:41:02]  |                                     | 
+[20:41:02]  ======================================= 
+[20:41:02]  
+[20:41:02]  
+[20:41:02]  
+[20:41:02]  
+[20:41:02]  ======================================= 
+[20:41:02]  |                                     | 
+[20:41:02]  |        YSI version 5.03.0689        | 
+[20:41:02]  |        By Alex "Y_Less" Cole        | 
+[20:41:02]  |                                     | 
+[20:41:02]  ======================================= 
+[20:41:02]  
+[20:41:02] [MYSQL] Couldn't connect to database, Server has been locked due to false configurations.
+[20:41:02] Setting server password to: "4124"
+[20:41:02] [FAIL-SAFE] --> Server password has been set to 4124
+[20:41:02]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[20:41:02] Number of vehicle models: 0
+[20:42:57] [connection] 192.168.18.9:54631 requests connection cookie.
+[20:42:58] [connection] incoming connection: 192.168.18.9:54631 id: 0
+[20:42:59] [join] traxyy has joined the server (0:192.168.18.9)
+[20:45:25] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:54:56] filterscripts = ""  (string)
+[20:54:56] 
+[20:54:56] Server Plugins
+[20:54:56] --------------
+[20:54:56]  Loading plugin: win\pawncmd
+[20:54:56] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[20:54:56]   Loaded.
+[20:54:56]  Loading plugin: win\regex
+[20:54:56] 
+
+[20:54:56] ______________________________________
+
+[20:54:56]  Regular Expression Plugin v0.2.1 loaded
+[20:54:56] ______________________________________
+
+[20:54:56]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:54:56] ______________________________________
+
+[20:54:56]   Loaded.
+[20:54:56]  Loading plugin: win\sscanf
+[20:54:56] 
+
+[20:54:56]  ===============================
+
+[20:54:56]       sscanf plugin loaded.     
+
+[20:54:56]         Version:  2.10.2        
+
+[20:54:56]    (c) 2020 Alex "Y_Less" Cole  
+
+[20:54:56]  ===============================
+
+[20:54:56]   Loaded.
+[20:54:56]  Loading plugin: win\streamer
+[20:54:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[20:54:56]   Loaded.
+[20:54:56]  Loading plugin: win\mysql
+[20:54:56]  >> plugin.mysql: R41-4 successfully loaded.
+[20:54:56]   Loaded.
+[20:54:56]  Loaded 5 plugins.
+
+[20:54:56] 
+[20:54:56] Filterscripts
+[20:54:56] ---------------
+[20:54:56]   Loaded 0 filterscripts.
+
+[20:54:56]  
+[20:54:56]  ======================================= 
+[20:54:56]  |                                     | 
+[20:54:56]  |    Optimising code, this may take   | 
+[20:54:56]  |        a little bit of time.        | 
+[20:54:56]  |                                     | 
+[20:54:56]  |            Please wait...           | 
+[20:54:56]  |                                     | 
+[20:54:56]  |=====================================| 
+[20:54:56]  |                                     | 
+[20:54:56]  | Note that these optimisations are   | 
+[20:54:56]  | designed to improve performance     | 
+[20:54:56]  | with the JIT plugin, which you are  | 
+[20:54:56]  | not currently using.  Get it here:  | 
+[20:54:56]  |                                     | 
+[20:54:56]  |      https://git.io/jit-plugin      | 
+[20:54:56]  |                                     | 
+[20:54:56]  ======================================= 
+[20:54:56]  
+[20:54:56]  
+[20:54:56]  
+[20:54:56]  
+[20:54:56]  ======================================= 
+[20:54:56]  |                                     | 
+[20:54:56]  |        YSI version 5.03.0689        | 
+[20:54:56]  |        By Alex "Y_Less" Cole        | 
+[20:54:56]  |                                     | 
+[20:54:56]  ======================================= 
+[20:54:56]  
+[20:54:56] [MYSQL] Couldn't connect to database, Server has been locked due to false configurations.
+[20:54:56] Setting server password to: "4770"
+[20:54:56] [FAIL-SAFE] --> Server password has been set to 4770
+[20:54:56]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[20:54:56] Number of vehicle models: 0
+[20:59:59] [connection] 192.168.18.9:53609 requests connection cookie.
+[21:00:00] [connection] incoming connection: 192.168.18.9:53609 id: 0
+[21:00:00] [join] traxyy has joined the server (0:192.168.18.9)
+[21:42:21] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:43] filterscripts = ""  (string)
+[21:51:43] 
+[21:51:43] Server Plugins
+[21:51:43] --------------
+[21:51:43]  Loading plugin: win\pawncmd
+[21:51:43] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:51:43]   Loaded.
+[21:51:43]  Loading plugin: win\regex
+[21:51:43] 
+
+[21:51:43] ______________________________________
+
+[21:51:43]  Regular Expression Plugin v0.2.1 loaded
+[21:51:43] ______________________________________
+
+[21:51:43]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:51:43] ______________________________________
+
+[21:51:43]   Loaded.
+[21:51:43]  Loading plugin: win\sscanf
+[21:51:43] 
+
+[21:51:43]  ===============================
+
+[21:51:43]       sscanf plugin loaded.     
+
+[21:51:43]         Version:  2.10.2        
+
+[21:51:43]    (c) 2020 Alex "Y_Less" Cole  
+
+[21:51:43]  ===============================
+
+[21:51:43]   Loaded.
+[21:51:43]  Loading plugin: win\streamer
+[21:51:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:51:43]   Loaded.
+[21:51:43]  Loading plugin: win\mysql
+[21:51:43]  >> plugin.mysql: R41-4 successfully loaded.
+[21:51:43]   Loaded.
+[21:51:43]  Loaded 5 plugins.
+
+[21:51:43] 
+[21:51:43] Filterscripts
+[21:51:43] ---------------
+[21:51:43]   Loaded 0 filterscripts.
+
+[21:51:43]  
+[21:51:43]  ======================================= 
+[21:51:43]  |                                     | 
+[21:51:43]  |    Optimising code, this may take   | 
+[21:51:43]  |        a little bit of time.        | 
+[21:51:43]  |                                     | 
+[21:51:43]  |            Please wait...           | 
+[21:51:43]  |                                     | 
+[21:51:43]  |=====================================| 
+[21:51:43]  |                                     | 
+[21:51:43]  | Note that these optimisations are   | 
+[21:51:43]  | designed to improve performance     | 
+[21:51:43]  | with the JIT plugin, which you are  | 
+[21:51:43]  | not currently using.  Get it here:  | 
+[21:51:43]  |                                     | 
+[21:51:43]  |      https://git.io/jit-plugin      | 
+[21:51:43]  |                                     | 
+[21:51:43]  ======================================= 
+[21:51:43]  
+[21:51:43]  
+[21:51:43]  
+[21:51:43]  
+[21:51:43]  ======================================= 
+[21:51:43]  |                                     | 
+[21:51:43]  |        YSI version 5.03.0689        | 
+[21:51:43]  |        By Alex "Y_Less" Cole        | 
+[21:51:43]  |                                     | 
+[21:51:43]  ======================================= 
+[21:51:43]  
+[21:51:43] [MYSQL] Connection established successfully.
+[21:51:43]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[21:51:43] Number of vehicle models: 0
+[21:53:07] [connection] 192.168.18.9:64927 requests connection cookie.
+[21:53:08] [connection] incoming connection: 192.168.18.9:64927 id: 0
+[21:55:25] [connection] incoming connection: 192.168.18.9:60101 id: 0
+[21:55:26] [join] traxyy has joined the server (0:192.168.18.9)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:58:16] filterscripts = ""  (string)
+[21:58:16] 
+[21:58:16] Server Plugins
+[21:58:16] --------------
+[21:58:16]  Loading plugin: win\pawncmd
+[21:58:16] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:58:16]   Loaded.
+[21:58:16]  Loading plugin: win\regex
+[21:58:16] 
+
+[21:58:16] ______________________________________
+
+[21:58:16]  Regular Expression Plugin v0.2.1 loaded
+[21:58:16] ______________________________________
+
+[21:58:16]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:58:16] ______________________________________
+
+[21:58:16]   Loaded.
+[21:58:16]  Loading plugin: win\sscanf
+[21:58:16] 
+
+[21:58:16]  ===============================
+
+[21:58:16]       sscanf plugin loaded.     
+
+[21:58:16]         Version:  2.10.2        
+
+[21:58:16]    (c) 2020 Alex "Y_Less" Cole  
+
+[21:58:16]  ===============================
+
+[21:58:16]   Loaded.
+[21:58:16]  Loading plugin: win\streamer
+[21:58:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:58:16]   Loaded.
+[21:58:16]  Loading plugin: win\mysql
+[21:58:16]  >> plugin.mysql: R41-4 successfully loaded.
+[21:58:16]   Loaded.
+[21:58:16]  Loaded 5 plugins.
+
+[21:58:16] 
+[21:58:16] Filterscripts
+[21:58:16] ---------------
+[21:58:16]   Loaded 0 filterscripts.
+
+[21:58:16]  
+[21:58:16]  ======================================= 
+[21:58:16]  |                                     | 
+[21:58:16]  |    Optimising code, this may take   | 
+[21:58:16]  |        a little bit of time.        | 
+[21:58:16]  |                                     | 
+[21:58:16]  |            Please wait...           | 
+[21:58:16]  |                                     | 
+[21:58:16]  |=====================================| 
+[21:58:16]  |                                     | 
+[21:58:16]  | Note that these optimisations are   | 
+[21:58:16]  | designed to improve performance     | 
+[21:58:16]  | with the JIT plugin, which you are  | 
+[21:58:16]  | not currently using.  Get it here:  | 
+[21:58:16]  |                                     | 
+[21:58:16]  |      https://git.io/jit-plugin      | 
+[21:58:16]  |                                     | 
+[21:58:16]  ======================================= 
+[21:58:16]  
+[21:58:16]  
+[21:58:16]  
+[21:58:16]  
+[21:58:16]  ======================================= 
+[21:58:16]  |                                     | 
+[21:58:16]  |        YSI version 5.03.0689        | 
+[21:58:16]  |        By Alex "Y_Less" Cole        | 
+[21:58:16]  |                                     | 
+[21:58:16]  ======================================= 
+[21:58:16]  
+[21:58:16] [MYSQL] Connection established successfully.
+[21:58:16]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[21:58:16] Number of vehicle models: 0
+[21:58:39] [connection] 192.168.18.9:60155 requests connection cookie.
+[21:58:40] [connection] incoming connection: 192.168.18.9:60155 id: 0
+[21:58:41] [join] traxyy has joined the server (0:192.168.18.9)
+[22:01:42] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:01:47] filterscripts = ""  (string)
+[22:01:47] 
+[22:01:47] Server Plugins
+[22:01:47] --------------
+[22:01:47]  Loading plugin: win\pawncmd
+[22:01:47] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:01:47]   Loaded.
+[22:01:47]  Loading plugin: win\regex
+[22:01:47] 
+
+[22:01:47] ______________________________________
+
+[22:01:47]  Regular Expression Plugin v0.2.1 loaded
+[22:01:47] ______________________________________
+
+[22:01:47]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:01:47] ______________________________________
+
+[22:01:47]   Loaded.
+[22:01:47]  Loading plugin: win\sscanf
+[22:01:47] 
+
+[22:01:47]  ===============================
+
+[22:01:47]       sscanf plugin loaded.     
+
+[22:01:47]         Version:  2.10.2        
+
+[22:01:47]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:01:47]  ===============================
+
+[22:01:47]   Loaded.
+[22:01:47]  Loading plugin: win\streamer
+[22:01:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:01:47]   Loaded.
+[22:01:47]  Loading plugin: win\mysql
+[22:01:47]  >> plugin.mysql: R41-4 successfully loaded.
+[22:01:47]   Loaded.
+[22:01:47]  Loaded 5 plugins.
+
+[22:01:47] 
+[22:01:47] Filterscripts
+[22:01:47] ---------------
+[22:01:47]   Loaded 0 filterscripts.
+
+[22:01:47]  
+[22:01:47]  ======================================= 
+[22:01:47]  |                                     | 
+[22:01:47]  |    Optimising code, this may take   | 
+[22:01:47]  |        a little bit of time.        | 
+[22:01:47]  |                                     | 
+[22:01:47]  |            Please wait...           | 
+[22:01:47]  |                                     | 
+[22:01:47]  |=====================================| 
+[22:01:47]  |                                     | 
+[22:01:47]  | Note that these optimisations are   | 
+[22:01:47]  | designed to improve performance     | 
+[22:01:47]  | with the JIT plugin, which you are  | 
+[22:01:47]  | not currently using.  Get it here:  | 
+[22:01:47]  |                                     | 
+[22:01:47]  |      https://git.io/jit-plugin      | 
+[22:01:47]  |                                     | 
+[22:01:47]  ======================================= 
+[22:01:47]  
+[22:01:47]  
+[22:01:47]  
+[22:01:47]  
+[22:01:47]  ======================================= 
+[22:01:47]  |                                     | 
+[22:01:47]  |        YSI version 5.03.0689        | 
+[22:01:47]  |        By Alex "Y_Less" Cole        | 
+[22:01:47]  |                                     | 
+[22:01:47]  ======================================= 
+[22:01:47]  
+[22:01:47] [MYSQL] Connection established successfully.
+[22:01:47]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:01:47] Number of vehicle models: 0
+[22:02:15] [connection] 192.168.18.9:62417 requests connection cookie.
+[22:02:16] [connection] incoming connection: 192.168.18.9:62417 id: 0
+[22:02:16] [join] traxyy has joined the server (0:192.168.18.9)
+[22:03:36] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:39] filterscripts = ""  (string)
+[22:03:39] 
+[22:03:39] Server Plugins
+[22:03:39] --------------
+[22:03:39]  Loading plugin: win\pawncmd
+[22:03:39] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:03:39]   Loaded.
+[22:03:39]  Loading plugin: win\regex
+[22:03:39] 
+
+[22:03:39] ______________________________________
+
+[22:03:39]  Regular Expression Plugin v0.2.1 loaded
+[22:03:39] ______________________________________
+
+[22:03:39]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:03:39] ______________________________________
+
+[22:03:39]   Loaded.
+[22:03:39]  Loading plugin: win\sscanf
+[22:03:39] 
+
+[22:03:39]  ===============================
+
+[22:03:39]       sscanf plugin loaded.     
+
+[22:03:39]         Version:  2.10.2        
+
+[22:03:39]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:03:39]  ===============================
+
+[22:03:39]   Loaded.
+[22:03:39]  Loading plugin: win\streamer
+[22:03:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:03:39]   Loaded.
+[22:03:39]  Loading plugin: win\mysql
+[22:03:39]  >> plugin.mysql: R41-4 successfully loaded.
+[22:03:39]   Loaded.
+[22:03:39]  Loaded 5 plugins.
+
+[22:03:39] 
+[22:03:39] Filterscripts
+[22:03:39] ---------------
+[22:03:39]   Loaded 0 filterscripts.
+
+[22:03:39]  
+[22:03:39]  ======================================= 
+[22:03:39]  |                                     | 
+[22:03:39]  |    Optimising code, this may take   | 
+[22:03:39]  |        a little bit of time.        | 
+[22:03:39]  |                                     | 
+[22:03:39]  |            Please wait...           | 
+[22:03:39]  |                                     | 
+[22:03:39]  |=====================================| 
+[22:03:39]  |                                     | 
+[22:03:39]  | Note that these optimisations are   | 
+[22:03:39]  | designed to improve performance     | 
+[22:03:39]  | with the JIT plugin, which you are  | 
+[22:03:39]  | not currently using.  Get it here:  | 
+[22:03:39]  |                                     | 
+[22:03:39]  |      https://git.io/jit-plugin      | 
+[22:03:39]  |                                     | 
+[22:03:39]  ======================================= 
+[22:03:39]  
+[22:03:39]  
+[22:03:39]  
+[22:03:39]  
+[22:03:39]  ======================================= 
+[22:03:39]  |                                     | 
+[22:03:39]  |        YSI version 5.03.0689        | 
+[22:03:39]  |        By Alex "Y_Less" Cole        | 
+[22:03:39]  |                                     | 
+[22:03:39]  ======================================= 
+[22:03:39]  
+[22:03:39] [MYSQL] Connection established successfully.
+[22:03:39]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:03:39] Number of vehicle models: 0
+[22:04:00] [connection] 192.168.18.9:52158 requests connection cookie.
+[22:04:01] [connection] incoming connection: 192.168.18.9:52158 id: 0
+[22:04:01] [join] traxyy has joined the server (0:192.168.18.9)
+[22:05:40] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:05:48] filterscripts = ""  (string)
+[22:05:48] 
+[22:05:48] Server Plugins
+[22:05:48] --------------
+[22:05:48]  Loading plugin: win\pawncmd
+[22:05:48] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:05:48]   Loaded.
+[22:05:48]  Loading plugin: win\regex
+[22:05:48] 
+
+[22:05:48] ______________________________________
+
+[22:05:48]  Regular Expression Plugin v0.2.1 loaded
+[22:05:48] ______________________________________
+
+[22:05:48]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:05:48] ______________________________________
+
+[22:05:48]   Loaded.
+[22:05:48]  Loading plugin: win\sscanf
+[22:05:48] 
+
+[22:05:48]  ===============================
+
+[22:05:48]       sscanf plugin loaded.     
+
+[22:05:48]         Version:  2.10.2        
+
+[22:05:48]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:05:48]  ===============================
+
+[22:05:48]   Loaded.
+[22:05:48]  Loading plugin: win\streamer
+[22:05:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:05:48]   Loaded.
+[22:05:48]  Loading plugin: win\mysql
+[22:05:48]  >> plugin.mysql: R41-4 successfully loaded.
+[22:05:48]   Loaded.
+[22:05:48]  Loaded 5 plugins.
+
+[22:05:48] 
+[22:05:48] Filterscripts
+[22:05:48] ---------------
+[22:05:48]   Loaded 0 filterscripts.
+
+[22:05:48]  
+[22:05:48]  ======================================= 
+[22:05:48]  |                                     | 
+[22:05:48]  |    Optimising code, this may take   | 
+[22:05:48]  |        a little bit of time.        | 
+[22:05:48]  |                                     | 
+[22:05:48]  |            Please wait...           | 
+[22:05:48]  |                                     | 
+[22:05:48]  |=====================================| 
+[22:05:48]  |                                     | 
+[22:05:48]  | Note that these optimisations are   | 
+[22:05:48]  | designed to improve performance     | 
+[22:05:48]  | with the JIT plugin, which you are  | 
+[22:05:48]  | not currently using.  Get it here:  | 
+[22:05:48]  |                                     | 
+[22:05:48]  |      https://git.io/jit-plugin      | 
+[22:05:48]  |                                     | 
+[22:05:48]  ======================================= 
+[22:05:48]  
+[22:05:48]  
+[22:05:48]  
+[22:05:48]  
+[22:05:48]  ======================================= 
+[22:05:48]  |                                     | 
+[22:05:48]  |        YSI version 5.03.0689        | 
+[22:05:48]  |        By Alex "Y_Less" Cole        | 
+[22:05:48]  |                                     | 
+[22:05:48]  ======================================= 
+[22:05:48]  
+[22:05:48] [MYSQL] Connection established successfully.
+[22:05:48]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:05:48] Number of vehicle models: 0
+[22:06:08] [connection] 192.168.18.9:51975 requests connection cookie.
+[22:06:09] [connection] incoming connection: 192.168.18.9:51975 id: 0
+[22:06:09] [join] traxyy has joined the server (0:192.168.18.9)
+[22:07:51] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:07:53] filterscripts = ""  (string)
+[22:07:53] 
+[22:07:53] Server Plugins
+[22:07:53] --------------
+[22:07:53]  Loading plugin: win\pawncmd
+[22:07:53] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:07:53]   Loaded.
+[22:07:53]  Loading plugin: win\regex
+[22:07:53] 
+
+[22:07:53] ______________________________________
+
+[22:07:53]  Regular Expression Plugin v0.2.1 loaded
+[22:07:53] ______________________________________
+
+[22:07:53]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:07:53] ______________________________________
+
+[22:07:53]   Loaded.
+[22:07:53]  Loading plugin: win\sscanf
+[22:07:53] 
+
+[22:07:53]  ===============================
+
+[22:07:53]       sscanf plugin loaded.     
+
+[22:07:53]         Version:  2.10.2        
+
+[22:07:53]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:07:53]  ===============================
+
+[22:07:53]   Loaded.
+[22:07:53]  Loading plugin: win\streamer
+[22:07:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:07:53]   Loaded.
+[22:07:53]  Loading plugin: win\mysql
+[22:07:53]  >> plugin.mysql: R41-4 successfully loaded.
+[22:07:53]   Loaded.
+[22:07:53]  Loaded 5 plugins.
+
+[22:07:54] 
+[22:07:54] Filterscripts
+[22:07:54] ---------------
+[22:07:54]   Loaded 0 filterscripts.
+
+[22:07:54]  
+[22:07:54]  ======================================= 
+[22:07:54]  |                                     | 
+[22:07:54]  |    Optimising code, this may take   | 
+[22:07:54]  |        a little bit of time.        | 
+[22:07:54]  |                                     | 
+[22:07:54]  |            Please wait...           | 
+[22:07:54]  |                                     | 
+[22:07:54]  |=====================================| 
+[22:07:54]  |                                     | 
+[22:07:54]  | Note that these optimisations are   | 
+[22:07:54]  | designed to improve performance     | 
+[22:07:54]  | with the JIT plugin, which you are  | 
+[22:07:54]  | not currently using.  Get it here:  | 
+[22:07:54]  |                                     | 
+[22:07:54]  |      https://git.io/jit-plugin      | 
+[22:07:54]  |                                     | 
+[22:07:54]  ======================================= 
+[22:07:54]  
+[22:07:54]  
+[22:07:54]  
+[22:07:54]  
+[22:07:54]  ======================================= 
+[22:07:54]  |                                     | 
+[22:07:54]  |        YSI version 5.03.0689        | 
+[22:07:54]  |        By Alex "Y_Less" Cole        | 
+[22:07:54]  |                                     | 
+[22:07:54]  ======================================= 
+[22:07:54]  
+[22:07:54] [MYSQL] Connection established successfully.
+[22:07:54]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:07:54] Number of vehicle models: 0
+[22:08:17] [connection] 192.168.18.9:60596 requests connection cookie.
+[22:08:18] [connection] incoming connection: 192.168.18.9:60596 id: 0
+[22:08:19] [join] traxyy has joined the server (0:192.168.18.9)
+[22:08:41] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:08:45] filterscripts = ""  (string)
+[22:08:45] 
+[22:08:45] Server Plugins
+[22:08:45] --------------
+[22:08:45]  Loading plugin: win\pawncmd
+[22:08:45] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:08:45]   Loaded.
+[22:08:45]  Loading plugin: win\regex
+[22:08:45] 
+
+[22:08:45] ______________________________________
+
+[22:08:45]  Regular Expression Plugin v0.2.1 loaded
+[22:08:45] ______________________________________
+
+[22:08:45]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:08:45] ______________________________________
+
+[22:08:45]   Loaded.
+[22:08:45]  Loading plugin: win\sscanf
+[22:08:45] 
+
+[22:08:45]  ===============================
+
+[22:08:45]       sscanf plugin loaded.     
+
+[22:08:45]         Version:  2.10.2        
+
+[22:08:45]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:08:45]  ===============================
+
+[22:08:45]   Loaded.
+[22:08:45]  Loading plugin: win\streamer
+[22:08:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:08:45]   Loaded.
+[22:08:45]  Loading plugin: win\mysql
+[22:08:45]  >> plugin.mysql: R41-4 successfully loaded.
+[22:08:45]   Loaded.
+[22:08:45]  Loaded 5 plugins.
+
+[22:08:45] 
+[22:08:45] Filterscripts
+[22:08:45] ---------------
+[22:08:45]   Loaded 0 filterscripts.
+
+[22:08:45]  
+[22:08:45]  ======================================= 
+[22:08:45]  |                                     | 
+[22:08:45]  |    Optimising code, this may take   | 
+[22:08:45]  |        a little bit of time.        | 
+[22:08:45]  |                                     | 
+[22:08:45]  |            Please wait...           | 
+[22:08:45]  |                                     | 
+[22:08:45]  |=====================================| 
+[22:08:45]  |                                     | 
+[22:08:45]  | Note that these optimisations are   | 
+[22:08:45]  | designed to improve performance     | 
+[22:08:45]  | with the JIT plugin, which you are  | 
+[22:08:45]  | not currently using.  Get it here:  | 
+[22:08:45]  |                                     | 
+[22:08:45]  |      https://git.io/jit-plugin      | 
+[22:08:45]  |                                     | 
+[22:08:45]  ======================================= 
+[22:08:45]  
+[22:08:45]  
+[22:08:45]  
+[22:08:45]  
+[22:08:45]  ======================================= 
+[22:08:45]  |                                     | 
+[22:08:45]  |        YSI version 5.03.0689        | 
+[22:08:45]  |        By Alex "Y_Less" Cole        | 
+[22:08:45]  |                                     | 
+[22:08:45]  ======================================= 
+[22:08:45]  
+[22:08:45] [MYSQL] Connection established successfully.
+[22:08:45]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:08:45] Number of vehicle models: 0
+[22:09:05] [connection] 192.168.18.9:53311 requests connection cookie.
+[22:09:06] [connection] incoming connection: 192.168.18.9:53311 id: 0
+[22:09:07] [join] traxyy has joined the server (0:192.168.18.9)
+[22:10:18] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:10:21] filterscripts = ""  (string)
+[22:10:21] 
+[22:10:21] Server Plugins
+[22:10:21] --------------
+[22:10:21]  Loading plugin: win\pawncmd
+[22:10:21] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:10:21]   Loaded.
+[22:10:21]  Loading plugin: win\regex
+[22:10:21] 
+
+[22:10:21] ______________________________________
+
+[22:10:21]  Regular Expression Plugin v0.2.1 loaded
+[22:10:21] ______________________________________
+
+[22:10:21]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:10:21] ______________________________________
+
+[22:10:21]   Loaded.
+[22:10:21]  Loading plugin: win\sscanf
+[22:10:21] 
+
+[22:10:21]  ===============================
+
+[22:10:21]       sscanf plugin loaded.     
+
+[22:10:21]         Version:  2.10.2        
+
+[22:10:21]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:10:21]  ===============================
+
+[22:10:21]   Loaded.
+[22:10:21]  Loading plugin: win\streamer
+[22:10:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:10:21]   Loaded.
+[22:10:21]  Loading plugin: win\mysql
+[22:10:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:10:21]   Loaded.
+[22:10:21]  Loaded 5 plugins.
+
+[22:10:21] 
+[22:10:21] Filterscripts
+[22:10:21] ---------------
+[22:10:21]   Loaded 0 filterscripts.
+
+[22:10:21]  
+[22:10:21]  ======================================= 
+[22:10:21]  |                                     | 
+[22:10:21]  |    Optimising code, this may take   | 
+[22:10:21]  |        a little bit of time.        | 
+[22:10:21]  |                                     | 
+[22:10:21]  |            Please wait...           | 
+[22:10:21]  |                                     | 
+[22:10:21]  |=====================================| 
+[22:10:21]  |                                     | 
+[22:10:21]  | Note that these optimisations are   | 
+[22:10:21]  | designed to improve performance     | 
+[22:10:21]  | with the JIT plugin, which you are  | 
+[22:10:21]  | not currently using.  Get it here:  | 
+[22:10:21]  |                                     | 
+[22:10:21]  |      https://git.io/jit-plugin      | 
+[22:10:21]  |                                     | 
+[22:10:21]  ======================================= 
+[22:10:21]  
+[22:10:21]  
+[22:10:21]  
+[22:10:21]  
+[22:10:21]  ======================================= 
+[22:10:21]  |                                     | 
+[22:10:21]  |        YSI version 5.03.0689        | 
+[22:10:21]  |        By Alex "Y_Less" Cole        | 
+[22:10:21]  |                                     | 
+[22:10:21]  ======================================= 
+[22:10:21]  
+[22:10:21] [MYSQL] Connection established successfully.
+[22:10:21]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:10:21] Number of vehicle models: 0
+[22:10:42] [connection] 192.168.18.9:52092 requests connection cookie.
+[22:10:43] [connection] incoming connection: 192.168.18.9:52092 id: 0
+[22:10:44] [join] traxyy has joined the server (0:192.168.18.9)
+[22:11:44] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:11:49] filterscripts = ""  (string)
+[22:11:49] 
+[22:11:49] Server Plugins
+[22:11:49] --------------
+[22:11:49]  Loading plugin: win\pawncmd
+[22:11:49] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:11:49]   Loaded.
+[22:11:49]  Loading plugin: win\regex
+[22:11:49] 
+
+[22:11:49] ______________________________________
+
+[22:11:49]  Regular Expression Plugin v0.2.1 loaded
+[22:11:49] ______________________________________
+
+[22:11:49]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:11:49] ______________________________________
+
+[22:11:49]   Loaded.
+[22:11:49]  Loading plugin: win\sscanf
+[22:11:49] 
+
+[22:11:49]  ===============================
+
+[22:11:49]       sscanf plugin loaded.     
+
+[22:11:49]         Version:  2.10.2        
+
+[22:11:49]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:11:49]  ===============================
+
+[22:11:49]   Loaded.
+[22:11:49]  Loading plugin: win\streamer
+[22:11:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:11:49]   Loaded.
+[22:11:49]  Loading plugin: win\mysql
+[22:11:49]  >> plugin.mysql: R41-4 successfully loaded.
+[22:11:49]   Loaded.
+[22:11:49]  Loaded 5 plugins.
+
+[22:11:49] 
+[22:11:49] Filterscripts
+[22:11:49] ---------------
+[22:11:49]   Loaded 0 filterscripts.
+
+[22:11:49]  
+[22:11:49]  ======================================= 
+[22:11:49]  |                                     | 
+[22:11:49]  |    Optimising code, this may take   | 
+[22:11:49]  |        a little bit of time.        | 
+[22:11:49]  |                                     | 
+[22:11:49]  |            Please wait...           | 
+[22:11:49]  |                                     | 
+[22:11:49]  |=====================================| 
+[22:11:49]  |                                     | 
+[22:11:49]  | Note that these optimisations are   | 
+[22:11:49]  | designed to improve performance     | 
+[22:11:49]  | with the JIT plugin, which you are  | 
+[22:11:49]  | not currently using.  Get it here:  | 
+[22:11:49]  |                                     | 
+[22:11:49]  |      https://git.io/jit-plugin      | 
+[22:11:49]  |                                     | 
+[22:11:49]  ======================================= 
+[22:11:49]  
+[22:11:50]  
+[22:11:50]  
+[22:11:50]  
+[22:11:50]  ======================================= 
+[22:11:50]  |                                     | 
+[22:11:50]  |        YSI version 5.03.0689        | 
+[22:11:50]  |        By Alex "Y_Less" Cole        | 
+[22:11:50]  |                                     | 
+[22:11:50]  ======================================= 
+[22:11:50]  
+[22:11:50] [MYSQL] Connection established successfully.
+[22:11:50]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:11:50] Number of vehicle models: 0
+[22:12:53] [connection] 192.168.18.9:51199 requests connection cookie.
+[22:12:54] [connection] incoming connection: 192.168.18.9:51199 id: 0
+[22:12:55] [join] traxyy has joined the server (0:192.168.18.9)
+[22:37:11] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:37:14] filterscripts = ""  (string)
+[22:37:14] 
+[22:37:14] Server Plugins
+[22:37:14] --------------
+[22:37:14]  Loading plugin: win\pawncmd
+[22:37:14] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[22:37:14]   Loaded.
+[22:37:14]  Loading plugin: win\regex
+[22:37:14] 
+
+[22:37:14] ______________________________________
+
+[22:37:14]  Regular Expression Plugin v0.2.1 loaded
+[22:37:14] ______________________________________
+
+[22:37:14]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:37:14] ______________________________________
+
+[22:37:14]   Loaded.
+[22:37:14]  Loading plugin: win\sscanf
+[22:37:14] 
+
+[22:37:14]  ===============================
+
+[22:37:14]       sscanf plugin loaded.     
+
+[22:37:14]         Version:  2.10.2        
+
+[22:37:14]    (c) 2020 Alex "Y_Less" Cole  
+
+[22:37:14]  ===============================
+
+[22:37:14]   Loaded.
+[22:37:14]  Loading plugin: win\streamer
+[22:37:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:37:14]   Loaded.
+[22:37:14]  Loading plugin: win\mysql
+[22:37:14]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:14]   Loaded.
+[22:37:14]  Loaded 5 plugins.
+
+[22:37:14] 
+[22:37:14] Filterscripts
+[22:37:14] ---------------
+[22:37:14]   Loaded 0 filterscripts.
+
+[22:37:14]  
+[22:37:14]  ======================================= 
+[22:37:14]  |                                     | 
+[22:37:14]  |    Optimising code, this may take   | 
+[22:37:14]  |        a little bit of time.        | 
+[22:37:14]  |                                     | 
+[22:37:14]  |            Please wait...           | 
+[22:37:14]  |                                     | 
+[22:37:14]  |=====================================| 
+[22:37:14]  |                                     | 
+[22:37:14]  | Note that these optimisations are   | 
+[22:37:14]  | designed to improve performance     | 
+[22:37:14]  | with the JIT plugin, which you are  | 
+[22:37:14]  | not currently using.  Get it here:  | 
+[22:37:14]  |                                     | 
+[22:37:14]  |      https://git.io/jit-plugin      | 
+[22:37:14]  |                                     | 
+[22:37:14]  ======================================= 
+[22:37:14]  
+[22:37:14]  
+[22:37:14]  
+[22:37:14]  
+[22:37:14]  ======================================= 
+[22:37:14]  |                                     | 
+[22:37:14]  |        YSI version 5.03.0689        | 
+[22:37:14]  |        By Alex "Y_Less" Cole        | 
+[22:37:14]  |                                     | 
+[22:37:14]  ======================================= 
+[22:37:14]  
+[22:37:14] [MYSQL] Connection established successfully.
+[22:37:14]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[22:37:14] Number of vehicle models: 0
+[22:38:03] [connection] 192.168.18.9:64882 requests connection cookie.
+[22:38:04] [connection] incoming connection: 192.168.18.9:64882 id: 0
+[22:38:05] [join] traxyy has joined the server (0:192.168.18.9)
+[22:38:39] RCON (In-Game): Player #0 (traxyy) failed login.
+[22:38:49] RCON (In-Game): Player #0 (traxyy) has logged in.
+[22:38:51] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 0
+[22:39:03] DELETE FROM `contribution_list`
+[22:40:56] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 0
+[22:40:57] DELETE FROM `contribution_list`
+[23:59:48] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 0
+[23:59:49] DELETE FROM `contribution_list`
+[23:59:59] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 0
+[00:00:00] DELETE FROM `contribution_list`
+[00:02:20] [DEBUG] listitem: 1, p_CreditsListitem[playerid]: 1
+[00:02:21] DELETE FROM `contribution_list`
+[00:03:59] [DEBUG] listitem: 1, p_CreditsListitem[playerid]: 1
+[00:04:03] DELETE FROM `contribution_list`
+[00:07:29] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 0
+[00:07:31] DELETE FROM `contribution_list`
+[00:09:11] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:14] filterscripts = ""  (string)
+[00:09:14] 
+[00:09:14] Server Plugins
+[00:09:14] --------------
+[00:09:14]  Loading plugin: win\pawncmd
+[00:09:14] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:09:14]   Loaded.
+[00:09:14]  Loading plugin: win\regex
+[00:09:14] 
+
+[00:09:14] ______________________________________
+
+[00:09:14]  Regular Expression Plugin v0.2.1 loaded
+[00:09:14] ______________________________________
+
+[00:09:14]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:09:14] ______________________________________
+
+[00:09:14]   Loaded.
+[00:09:14]  Loading plugin: win\sscanf
+[00:09:14] 
+
+[00:09:14]  ===============================
+
+[00:09:14]       sscanf plugin loaded.     
+
+[00:09:14]         Version:  2.10.2        
+
+[00:09:14]    (c) 2020 Alex "Y_Less" Cole  
+
+[00:09:14]  ===============================
+
+[00:09:14]   Loaded.
+[00:09:14]  Loading plugin: win\streamer
+[00:09:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:09:14]   Loaded.
+[00:09:14]  Loading plugin: win\mysql
+[00:09:14]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:14]   Loaded.
+[00:09:14]  Loaded 5 plugins.
+
+[00:09:14] 
+[00:09:14] Filterscripts
+[00:09:14] ---------------
+[00:09:14]   Loaded 0 filterscripts.
+
+[00:09:14]  
+[00:09:14]  ======================================= 
+[00:09:14]  |                                     | 
+[00:09:14]  |    Optimising code, this may take   | 
+[00:09:14]  |        a little bit of time.        | 
+[00:09:14]  |                                     | 
+[00:09:14]  |            Please wait...           | 
+[00:09:14]  |                                     | 
+[00:09:14]  |=====================================| 
+[00:09:14]  |                                     | 
+[00:09:14]  | Note that these optimisations are   | 
+[00:09:14]  | designed to improve performance     | 
+[00:09:14]  | with the JIT plugin, which you are  | 
+[00:09:14]  | not currently using.  Get it here:  | 
+[00:09:14]  |                                     | 
+[00:09:14]  |      https://git.io/jit-plugin      | 
+[00:09:14]  |                                     | 
+[00:09:14]  ======================================= 
+[00:09:14]  
+[00:09:14]  
+[00:09:14]  
+[00:09:14]  
+[00:09:14]  ======================================= 
+[00:09:14]  |                                     | 
+[00:09:14]  |        YSI version 5.03.0689        | 
+[00:09:14]  |        By Alex "Y_Less" Cole        | 
+[00:09:14]  |                                     | 
+[00:09:14]  ======================================= 
+[00:09:14]  
+[00:09:14] [MYSQL] Connection established successfully.
+[00:09:14]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[00:09:14] Number of vehicle models: 0
+[00:14:04] [connection] 192.168.18.9:55828 requests connection cookie.
+[00:14:05] [connection] incoming connection: 192.168.18.9:55828 id: 0
+[00:14:06] [join] traxyy has joined the server (0:192.168.18.9)
+[00:15:17] RCON (In-Game): Player #0 (traxyy) has logged in.
+[00:15:20] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 0
+[00:15:24] DELETE FROM `contribution_list` WHERE `ID`='0'
+[00:19:55] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:26:23] filterscripts = ""  (string)
+[00:26:23] 
+[00:26:23] Server Plugins
+[00:26:23] --------------
+[00:26:23]  Loading plugin: win\pawncmd
+[00:26:23] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:26:23]   Loaded.
+[00:26:23]  Loading plugin: win\regex
+[00:26:23] 
+
+[00:26:23] ______________________________________
+
+[00:26:23]  Regular Expression Plugin v0.2.1 loaded
+[00:26:23] ______________________________________
+
+[00:26:23]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:26:23] ______________________________________
+
+[00:26:23]   Loaded.
+[00:26:23]  Loading plugin: win\sscanf
+[00:26:23] 
+
+[00:26:23]  ===============================
+
+[00:26:23]       sscanf plugin loaded.     
+
+[00:26:23]         Version:  2.10.2        
+
+[00:26:23]    (c) 2020 Alex "Y_Less" Cole  
+
+[00:26:23]  ===============================
+
+[00:26:23]   Loaded.
+[00:26:23]  Loading plugin: win\streamer
+[00:26:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:26:23]   Loaded.
+[00:26:23]  Loading plugin: win\mysql
+[00:26:23]  >> plugin.mysql: R41-4 successfully loaded.
+[00:26:23]   Loaded.
+[00:26:23]  Loaded 5 plugins.
+
+[00:26:23] 
+[00:26:23] Filterscripts
+[00:26:24] ---------------
+[00:26:24]   Loaded 0 filterscripts.
+
+[00:26:24]  
+[00:26:24]  ======================================= 
+[00:26:24]  |                                     | 
+[00:26:24]  |    Optimising code, this may take   | 
+[00:26:24]  |        a little bit of time.        | 
+[00:26:24]  |                                     | 
+[00:26:24]  |            Please wait...           | 
+[00:26:24]  |                                     | 
+[00:26:24]  |=====================================| 
+[00:26:24]  |                                     | 
+[00:26:24]  | Note that these optimisations are   | 
+[00:26:24]  | designed to improve performance     | 
+[00:26:24]  | with the JIT plugin, which you are  | 
+[00:26:24]  | not currently using.  Get it here:  | 
+[00:26:24]  |                                     | 
+[00:26:24]  |      https://git.io/jit-plugin      | 
+[00:26:24]  |                                     | 
+[00:26:24]  ======================================= 
+[00:26:24]  
+[00:26:24]  
+[00:26:24]  
+[00:26:24]  
+[00:26:24]  ======================================= 
+[00:26:24]  |                                     | 
+[00:26:24]  |        YSI version 5.03.0689        | 
+[00:26:24]  |        By Alex "Y_Less" Cole        | 
+[00:26:24]  |                                     | 
+[00:26:24]  ======================================= 
+[00:26:24]  
+[00:26:24] [MYSQL] Connection established successfully.
+[00:26:24]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[00:26:24] Number of vehicle models: 0
+[00:26:43] [connection] 192.168.18.9:54532 requests connection cookie.
+[00:26:44] [connection] incoming connection: 192.168.18.9:54532 id: 0
+[00:26:45] [join] traxyy has joined the server (0:192.168.18.9)
+[00:27:09] RCON (In-Game): Player #0 (traxyy) has logged in.
+[00:27:12] [DEBUG] listitem: 1, p_CreditsListitem[playerid]: 2
+[00:27:14] DELETE FROM `contribution_list` WHERE `ID`='2'
+[00:29:01] [DEBUG] listitem: 1, p_CreditsListitem[playerid]: 2
+[00:29:01] DELETE FROM `contribution_list` WHERE `ID`='2'
+[00:43:21] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 1
+[00:47:16] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:47:19] filterscripts = ""  (string)
+[00:47:19] 
+[00:47:19] Server Plugins
+[00:47:19] --------------
+[00:47:19]  Loading plugin: win\pawncmd
+[00:47:19] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:47:19]   Loaded.
+[00:47:19]  Loading plugin: win\regex
+[00:47:19] 
+
+[00:47:19] ______________________________________
+
+[00:47:19]  Regular Expression Plugin v0.2.1 loaded
+[00:47:19] ______________________________________
+
+[00:47:19]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:47:19] ______________________________________
+
+[00:47:19]   Loaded.
+[00:47:19]  Loading plugin: win\sscanf
+[00:47:19] 
+
+[00:47:19]  ===============================
+
+[00:47:19]       sscanf plugin loaded.     
+
+[00:47:19]         Version:  2.10.2        
+
+[00:47:19]    (c) 2020 Alex "Y_Less" Cole  
+
+[00:47:19]  ===============================
+
+[00:47:19]   Loaded.
+[00:47:19]  Loading plugin: win\streamer
+[00:47:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:47:19]   Loaded.
+[00:47:19]  Loading plugin: win\mysql
+[00:47:19]  >> plugin.mysql: R41-4 successfully loaded.
+[00:47:19]   Loaded.
+[00:47:19]  Loaded 5 plugins.
+
+[00:47:19] 
+[00:47:19] Filterscripts
+[00:47:19] ---------------
+[00:47:19]   Loaded 0 filterscripts.
+
+[00:47:19]  
+[00:47:19]  ======================================= 
+[00:47:19]  |                                     | 
+[00:47:19]  |    Optimising code, this may take   | 
+[00:47:19]  |        a little bit of time.        | 
+[00:47:19]  |                                     | 
+[00:47:19]  |            Please wait...           | 
+[00:47:19]  |                                     | 
+[00:47:19]  |=====================================| 
+[00:47:19]  |                                     | 
+[00:47:19]  | Note that these optimisations are   | 
+[00:47:19]  | designed to improve performance     | 
+[00:47:19]  | with the JIT plugin, which you are  | 
+[00:47:19]  | not currently using.  Get it here:  | 
+[00:47:19]  |                                     | 
+[00:47:19]  |      https://git.io/jit-plugin      | 
+[00:47:19]  |                                     | 
+[00:47:19]  ======================================= 
+[00:47:19]  
+[00:47:19]  
+[00:47:19]  
+[00:47:19]  
+[00:47:19]  ======================================= 
+[00:47:19]  |                                     | 
+[00:47:19]  |        YSI version 5.03.0689        | 
+[00:47:19]  |        By Alex "Y_Less" Cole        | 
+[00:47:19]  |                                     | 
+[00:47:19]  ======================================= 
+[00:47:19]  
+[00:47:19] [MYSQL] Connection established successfully.
+[00:47:19]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[00:47:19] Number of vehicle models: 0
+[00:47:57] [connection] 192.168.18.9:54321 requests connection cookie.
+[00:47:58] [connection] incoming connection: 192.168.18.9:54321 id: 0
+[00:47:59] [join] traxyy has joined the server (0:192.168.18.9)
+[00:48:26] RCON (In-Game): Player #0 (traxyy) has logged in.
+[00:48:28] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 1
+[00:48:29] [DEBUG] inputtext: 
+[00:48:29] DELETE FROM `contribution_list` WHERE `ID`='1'
+[00:50:16] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:50:18] filterscripts = ""  (string)
+[00:50:18] 
+[00:50:18] Server Plugins
+[00:50:18] --------------
+[00:50:18]  Loading plugin: win\pawncmd
+[00:50:18] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:50:18]   Loaded.
+[00:50:18]  Loading plugin: win\regex
+[00:50:18] 
+
+[00:50:18] ______________________________________
+
+[00:50:18]  Regular Expression Plugin v0.2.1 loaded
+[00:50:18] ______________________________________
+
+[00:50:18]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:50:18] ______________________________________
+
+[00:50:18]   Loaded.
+[00:50:18]  Loading plugin: win\sscanf
+[00:50:18] 
+
+[00:50:18]  ===============================
+
+[00:50:18]       sscanf plugin loaded.     
+
+[00:50:18]         Version:  2.10.2        
+
+[00:50:18]    (c) 2020 Alex "Y_Less" Cole  
+
+[00:50:18]  ===============================
+
+[00:50:18]   Loaded.
+[00:50:18]  Loading plugin: win\streamer
+[00:50:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:50:18]   Loaded.
+[00:50:18]  Loading plugin: win\mysql
+[00:50:18]  >> plugin.mysql: R41-4 successfully loaded.
+[00:50:18]   Loaded.
+[00:50:18]  Loaded 5 plugins.
+
+[00:50:18] 
+[00:50:18] Filterscripts
+[00:50:18] ---------------
+[00:50:18]   Loaded 0 filterscripts.
+
+[00:50:18]  
+[00:50:18]  ======================================= 
+[00:50:18]  |                                     | 
+[00:50:18]  |    Optimising code, this may take   | 
+[00:50:18]  |        a little bit of time.        | 
+[00:50:18]  |                                     | 
+[00:50:18]  |            Please wait...           | 
+[00:50:18]  |                                     | 
+[00:50:18]  |=====================================| 
+[00:50:18]  |                                     | 
+[00:50:18]  | Note that these optimisations are   | 
+[00:50:18]  | designed to improve performance     | 
+[00:50:18]  | with the JIT plugin, which you are  | 
+[00:50:18]  | not currently using.  Get it here:  | 
+[00:50:18]  |                                     | 
+[00:50:18]  |      https://git.io/jit-plugin      | 
+[00:50:18]  |                                     | 
+[00:50:19]  ======================================= 
+[00:50:19]  
+[00:50:19]  
+[00:50:19]  
+[00:50:19]  
+[00:50:19]  ======================================= 
+[00:50:19]  |                                     | 
+[00:50:19]  |        YSI version 5.03.0689        | 
+[00:50:19]  |        By Alex "Y_Less" Cole        | 
+[00:50:19]  |                                     | 
+[00:50:19]  ======================================= 
+[00:50:19]  
+[00:50:19] [MYSQL] Connection established successfully.
+[00:50:19]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[00:50:19] Number of vehicle models: 0
+[00:50:40] [connection] 192.168.18.9:62721 requests connection cookie.
+[00:50:41] [connection] incoming connection: 192.168.18.9:62721 id: 0
+[00:50:42] [join] traxyy has joined the server (0:192.168.18.9)
+[00:50:51] RCON (In-Game): Player #0 (traxyy) has logged in.
+[00:50:52] [DEBUG] inputtext: traxyy
+[00:50:52] [DEBUG] listitem: 0, p_CreditsListitem[playerid]: 1
+[00:50:52] [DEBUG] inputtext: 
+[00:50:52] DELETE FROM `contribution_list` WHERE `ID`='1'
+[01:01:34] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:03:06] filterscripts = ""  (string)
+[01:03:06] 
+[01:03:06] Server Plugins
+[01:03:06] --------------
+[01:03:06]  Loading plugin: win\pawncmd
+[01:03:06] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:03:06]   Loaded.
+[01:03:06]  Loading plugin: win\regex
+[01:03:06] 
+
+[01:03:06] ______________________________________
+
+[01:03:06]  Regular Expression Plugin v0.2.1 loaded
+[01:03:06] ______________________________________
+
+[01:03:06]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:03:06] ______________________________________
+
+[01:03:06]   Loaded.
+[01:03:06]  Loading plugin: win\sscanf
+[01:03:06] 
+
+[01:03:06]  ===============================
+
+[01:03:06]       sscanf plugin loaded.     
+
+[01:03:06]         Version:  2.10.2        
+
+[01:03:06]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:03:06]  ===============================
+
+[01:03:06]   Loaded.
+[01:03:06]  Loading plugin: win\streamer
+[01:03:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:03:06]   Loaded.
+[01:03:06]  Loading plugin: win\mysql
+[01:03:06]  >> plugin.mysql: R41-4 successfully loaded.
+[01:03:06]   Loaded.
+[01:03:06]  Loaded 5 plugins.
+
+[01:03:06] 
+[01:03:06] Filterscripts
+[01:03:06] ---------------
+[01:03:06]   Loaded 0 filterscripts.
+
+[01:03:06]  
+[01:03:06]  ======================================= 
+[01:03:06]  |                                     | 
+[01:03:06]  |    Optimising code, this may take   | 
+[01:03:06]  |        a little bit of time.        | 
+[01:03:06]  |                                     | 
+[01:03:06]  |            Please wait...           | 
+[01:03:06]  |                                     | 
+[01:03:06]  |=====================================| 
+[01:03:06]  |                                     | 
+[01:03:06]  | Note that these optimisations are   | 
+[01:03:06]  | designed to improve performance     | 
+[01:03:06]  | with the JIT plugin, which you are  | 
+[01:03:06]  | not currently using.  Get it here:  | 
+[01:03:06]  |                                     | 
+[01:03:06]  |      https://git.io/jit-plugin      | 
+[01:03:06]  |                                     | 
+[01:03:06]  ======================================= 
+[01:03:06]  
+[01:03:06]  
+[01:03:06]  
+[01:03:06]  
+[01:03:06]  ======================================= 
+[01:03:06]  |                                     | 
+[01:03:06]  |        YSI version 5.03.0689        | 
+[01:03:06]  |        By Alex "Y_Less" Cole        | 
+[01:03:06]  |                                     | 
+[01:03:06]  ======================================= 
+[01:03:06]  
+[01:03:06] [MYSQL] Connection established successfully.
+[01:03:06]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:03:06] Number of vehicle models: 0
+[01:03:25] [connection] 192.168.18.9:51104 requests connection cookie.
+[01:03:26] [connection] incoming connection: 192.168.18.9:51104 id: 0
+[01:03:26] [join] traxyy has joined the server (0:192.168.18.9)
+[01:04:35] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:04:43] DELETE FROM `contribution_list` WHERE `NAME` = 'Nemesis'
+[01:04:46] DELETE FROM `contribution_list` WHERE `NAME` = 'Lucifer'
+[01:04:48] DELETE FROM `contribution_list` WHERE `NAME` = 'Sultan'
+[01:23:00] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:23:09] filterscripts = ""  (string)
+[01:23:09] 
+[01:23:09] Server Plugins
+[01:23:09] --------------
+[01:23:09]  Loading plugin: win\pawncmd
+[01:23:09] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:23:09]   Loaded.
+[01:23:09]  Loading plugin: win\regex
+[01:23:09] 
+
+[01:23:09] ______________________________________
+
+[01:23:09]  Regular Expression Plugin v0.2.1 loaded
+[01:23:09] ______________________________________
+
+[01:23:09]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:23:09] ______________________________________
+
+[01:23:09]   Loaded.
+[01:23:09]  Loading plugin: win\sscanf
+[01:23:09] 
+
+[01:23:09]  ===============================
+
+[01:23:09]       sscanf plugin loaded.     
+
+[01:23:09]         Version:  2.10.2        
+
+[01:23:09]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:23:09]  ===============================
+
+[01:23:09]   Loaded.
+[01:23:09]  Loading plugin: win\streamer
+[01:23:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:23:09]   Loaded.
+[01:23:09]  Loading plugin: win\mysql
+[01:23:09]  >> plugin.mysql: R41-4 successfully loaded.
+[01:23:09]   Loaded.
+[01:23:09]  Loaded 5 plugins.
+
+[01:23:09] 
+[01:23:09] Filterscripts
+[01:23:09] ---------------
+[01:23:09]   Loaded 0 filterscripts.
+
+[01:23:09]  
+[01:23:09]  ======================================= 
+[01:23:09]  |                                     | 
+[01:23:09]  |    Optimising code, this may take   | 
+[01:23:09]  |        a little bit of time.        | 
+[01:23:09]  |                                     | 
+[01:23:09]  |            Please wait...           | 
+[01:23:09]  |                                     | 
+[01:23:09]  |=====================================| 
+[01:23:09]  |                                     | 
+[01:23:09]  | Note that these optimisations are   | 
+[01:23:09]  | designed to improve performance     | 
+[01:23:09]  | with the JIT plugin, which you are  | 
+[01:23:09]  | not currently using.  Get it here:  | 
+[01:23:09]  |                                     | 
+[01:23:09]  |      https://git.io/jit-plugin      | 
+[01:23:09]  |                                     | 
+[01:23:09]  ======================================= 
+[01:23:09]  
+[01:23:09]  
+[01:23:09]  
+[01:23:09]  
+[01:23:09]  ======================================= 
+[01:23:09]  |                                     | 
+[01:23:09]  |        YSI version 5.03.0689        | 
+[01:23:09]  |        By Alex "Y_Less" Cole        | 
+[01:23:09]  |                                     | 
+[01:23:09]  ======================================= 
+[01:23:09]  
+[01:23:09] [MYSQL] Connection established successfully.
+[01:23:09]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:23:09] Number of vehicle models: 0
+[01:23:30] [connection] 192.168.18.9:49910 requests connection cookie.
+[01:23:31] [connection] incoming connection: 192.168.18.9:49910 id: 0
+[01:23:32] [join] traxyy has joined the server (0:192.168.18.9)
+[01:23:57] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:24:01] DELETE FROM `contribution_list` WHERE `NAME` = 'traxyy'
+[01:26:56] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:02] filterscripts = ""  (string)
+[01:27:02] 
+[01:27:02] Server Plugins
+[01:27:02] --------------
+[01:27:02]  Loading plugin: win\pawncmd
+[01:27:02] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:27:02]   Loaded.
+[01:27:02]  Loading plugin: win\regex
+[01:27:02] 
+
+[01:27:02] ______________________________________
+
+[01:27:02]  Regular Expression Plugin v0.2.1 loaded
+[01:27:02] ______________________________________
+
+[01:27:02]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:27:02] ______________________________________
+
+[01:27:02]   Loaded.
+[01:27:02]  Loading plugin: win\sscanf
+[01:27:02] 
+
+[01:27:02]  ===============================
+
+[01:27:02]       sscanf plugin loaded.     
+
+[01:27:02]         Version:  2.10.2        
+
+[01:27:02]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:27:02]  ===============================
+
+[01:27:02]   Loaded.
+[01:27:02]  Loading plugin: win\streamer
+[01:27:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:27:02]   Loaded.
+[01:27:02]  Loading plugin: win\mysql
+[01:27:02]  >> plugin.mysql: R41-4 successfully loaded.
+[01:27:02]   Loaded.
+[01:27:02]  Loaded 5 plugins.
+
+[01:27:02] 
+[01:27:02] Filterscripts
+[01:27:02] ---------------
+[01:27:02]   Loaded 0 filterscripts.
+
+[01:27:02]  
+[01:27:02]  ======================================= 
+[01:27:02]  |                                     | 
+[01:27:02]  |    Optimising code, this may take   | 
+[01:27:02]  |        a little bit of time.        | 
+[01:27:02]  |                                     | 
+[01:27:02]  |            Please wait...           | 
+[01:27:02]  |                                     | 
+[01:27:02]  |=====================================| 
+[01:27:02]  |                                     | 
+[01:27:02]  | Note that these optimisations are   | 
+[01:27:02]  | designed to improve performance     | 
+[01:27:02]  | with the JIT plugin, which you are  | 
+[01:27:02]  | not currently using.  Get it here:  | 
+[01:27:02]  |                                     | 
+[01:27:02]  |      https://git.io/jit-plugin      | 
+[01:27:02]  |                                     | 
+[01:27:02]  ======================================= 
+[01:27:02]  
+[01:27:02]  
+[01:27:02]  
+[01:27:02]  
+[01:27:02]  ======================================= 
+[01:27:02]  |                                     | 
+[01:27:02]  |        YSI version 5.03.0689        | 
+[01:27:02]  |        By Alex "Y_Less" Cole        | 
+[01:27:02]  |                                     | 
+[01:27:02]  ======================================= 
+[01:27:02]  
+[01:27:02] [MYSQL] Connection established successfully.
+[01:27:02]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:27:02] Number of vehicle models: 0
+[01:27:46] [connection] 192.168.18.9:53035 requests connection cookie.
+[01:27:47] [connection] incoming connection: 192.168.18.9:53035 id: 0
+[01:27:48] [join] traxyy has joined the server (0:192.168.18.9)
+[01:28:15] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:29:12] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:29:17] filterscripts = ""  (string)
+[01:29:17] 
+[01:29:17] Server Plugins
+[01:29:17] --------------
+[01:29:17]  Loading plugin: win\pawncmd
+[01:29:17] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:29:17]   Loaded.
+[01:29:17]  Loading plugin: win\regex
+[01:29:17] 
+
+[01:29:17] ______________________________________
+
+[01:29:17]  Regular Expression Plugin v0.2.1 loaded
+[01:29:17] ______________________________________
+
+[01:29:17]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:29:17] ______________________________________
+
+[01:29:17]   Loaded.
+[01:29:17]  Loading plugin: win\sscanf
+[01:29:17] 
+
+[01:29:17]  ===============================
+
+[01:29:17]       sscanf plugin loaded.     
+
+[01:29:17]         Version:  2.10.2        
+
+[01:29:17]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:29:17]  ===============================
+
+[01:29:17]   Loaded.
+[01:29:17]  Loading plugin: win\streamer
+[01:29:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:29:17]   Loaded.
+[01:29:17]  Loading plugin: win\mysql
+[01:29:17]  >> plugin.mysql: R41-4 successfully loaded.
+[01:29:17]   Loaded.
+[01:29:17]  Loaded 5 plugins.
+
+[01:29:17] 
+[01:29:17] Filterscripts
+[01:29:17] ---------------
+[01:29:17]   Loaded 0 filterscripts.
+
+[01:29:18]  
+[01:29:18]  ======================================= 
+[01:29:18]  |                                     | 
+[01:29:18]  |    Optimising code, this may take   | 
+[01:29:18]  |        a little bit of time.        | 
+[01:29:18]  |                                     | 
+[01:29:18]  |            Please wait...           | 
+[01:29:18]  |                                     | 
+[01:29:18]  |=====================================| 
+[01:29:18]  |                                     | 
+[01:29:18]  | Note that these optimisations are   | 
+[01:29:18]  | designed to improve performance     | 
+[01:29:18]  | with the JIT plugin, which you are  | 
+[01:29:18]  | not currently using.  Get it here:  | 
+[01:29:18]  |                                     | 
+[01:29:18]  |      https://git.io/jit-plugin      | 
+[01:29:18]  |                                     | 
+[01:29:18]  ======================================= 
+[01:29:18]  
+[01:29:18]  
+[01:29:18]  
+[01:29:18]  
+[01:29:18]  ======================================= 
+[01:29:18]  |                                     | 
+[01:29:18]  |        YSI version 5.03.0689        | 
+[01:29:18]  |        By Alex "Y_Less" Cole        | 
+[01:29:18]  |                                     | 
+[01:29:18]  ======================================= 
+[01:29:18]  
+[01:29:18] [MYSQL] Connection established successfully.
+[01:29:18]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:29:18] Number of vehicle models: 0
+[01:29:36] [connection] 192.168.18.9:56455 requests connection cookie.
+[01:29:37] [connection] incoming connection: 192.168.18.9:56455 id: 0
+[01:29:38] [join] traxyy has joined the server (0:192.168.18.9)
+[01:29:53] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:30:52] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:30:55] filterscripts = ""  (string)
+[01:30:55] 
+[01:30:55] Server Plugins
+[01:30:55] --------------
+[01:30:55]  Loading plugin: win\pawncmd
+[01:30:55] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:30:55]   Loaded.
+[01:30:55]  Loading plugin: win\regex
+[01:30:55] 
+
+[01:30:55] ______________________________________
+
+[01:30:55]  Regular Expression Plugin v0.2.1 loaded
+[01:30:55] ______________________________________
+
+[01:30:55]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:30:55] ______________________________________
+
+[01:30:55]   Loaded.
+[01:30:55]  Loading plugin: win\sscanf
+[01:30:55] 
+
+[01:30:55]  ===============================
+
+[01:30:55]       sscanf plugin loaded.     
+
+[01:30:55]         Version:  2.10.2        
+
+[01:30:55]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:30:55]  ===============================
+
+[01:30:55]   Loaded.
+[01:30:55]  Loading plugin: win\streamer
+[01:30:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:30:55]   Loaded.
+[01:30:55]  Loading plugin: win\mysql
+[01:30:55]  >> plugin.mysql: R41-4 successfully loaded.
+[01:30:55]   Loaded.
+[01:30:55]  Loaded 5 plugins.
+
+[01:30:55] 
+[01:30:55] Filterscripts
+[01:30:55] ---------------
+[01:30:55]   Loaded 0 filterscripts.
+
+[01:30:55]  
+[01:30:55]  ======================================= 
+[01:30:55]  |                                     | 
+[01:30:55]  |    Optimising code, this may take   | 
+[01:30:55]  |        a little bit of time.        | 
+[01:30:55]  |                                     | 
+[01:30:55]  |            Please wait...           | 
+[01:30:55]  |                                     | 
+[01:30:55]  |=====================================| 
+[01:30:55]  |                                     | 
+[01:30:55]  | Note that these optimisations are   | 
+[01:30:55]  | designed to improve performance     | 
+[01:30:55]  | with the JIT plugin, which you are  | 
+[01:30:55]  | not currently using.  Get it here:  | 
+[01:30:55]  |                                     | 
+[01:30:55]  |      https://git.io/jit-plugin      | 
+[01:30:55]  |                                     | 
+[01:30:55]  ======================================= 
+[01:30:55]  
+[01:30:55]  
+[01:30:55]  
+[01:30:55]  
+[01:30:55]  ======================================= 
+[01:30:55]  |                                     | 
+[01:30:55]  |        YSI version 5.03.0689        | 
+[01:30:55]  |        By Alex "Y_Less" Cole        | 
+[01:30:55]  |                                     | 
+[01:30:55]  ======================================= 
+[01:30:55]  
+[01:30:55] [MYSQL] Connection established successfully.
+[01:30:55]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:30:55] Number of vehicle models: 0
+[01:31:14] [connection] 192.168.18.9:58910 requests connection cookie.
+[01:31:15] [connection] incoming connection: 192.168.18.9:58910 id: 0
+[01:31:15] [join] traxyy has joined the server (0:192.168.18.9)
+[01:31:23] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:32:38] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:32:41] filterscripts = ""  (string)
+[01:32:41] 
+[01:32:41] Server Plugins
+[01:32:41] --------------
+[01:32:41]  Loading plugin: win\pawncmd
+[01:32:41] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:32:41]   Loaded.
+[01:32:41]  Loading plugin: win\regex
+[01:32:41] 
+
+[01:32:41] ______________________________________
+
+[01:32:41]  Regular Expression Plugin v0.2.1 loaded
+[01:32:41] ______________________________________
+
+[01:32:41]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:32:41] ______________________________________
+
+[01:32:41]   Loaded.
+[01:32:41]  Loading plugin: win\sscanf
+[01:32:41] 
+
+[01:32:41]  ===============================
+
+[01:32:41]       sscanf plugin loaded.     
+
+[01:32:41]         Version:  2.10.2        
+
+[01:32:41]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:32:41]  ===============================
+
+[01:32:41]   Loaded.
+[01:32:41]  Loading plugin: win\streamer
+[01:32:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:32:41]   Loaded.
+[01:32:41]  Loading plugin: win\mysql
+[01:32:41]  >> plugin.mysql: R41-4 successfully loaded.
+[01:32:41]   Loaded.
+[01:32:41]  Loaded 5 plugins.
+
+[01:32:41] 
+[01:32:41] Filterscripts
+[01:32:41] ---------------
+[01:32:41]   Loaded 0 filterscripts.
+
+[01:32:41]  
+[01:32:41]  ======================================= 
+[01:32:41]  |                                     | 
+[01:32:41]  |    Optimising code, this may take   | 
+[01:32:41]  |        a little bit of time.        | 
+[01:32:41]  |                                     | 
+[01:32:41]  |            Please wait...           | 
+[01:32:41]  |                                     | 
+[01:32:41]  |=====================================| 
+[01:32:41]  |                                     | 
+[01:32:41]  | Note that these optimisations are   | 
+[01:32:41]  | designed to improve performance     | 
+[01:32:41]  | with the JIT plugin, which you are  | 
+[01:32:41]  | not currently using.  Get it here:  | 
+[01:32:41]  |                                     | 
+[01:32:41]  |      https://git.io/jit-plugin      | 
+[01:32:41]  |                                     | 
+[01:32:41]  ======================================= 
+[01:32:41]  
+[01:32:41]  
+[01:32:41]  
+[01:32:41]  
+[01:32:41]  ======================================= 
+[01:32:41]  |                                     | 
+[01:32:41]  |        YSI version 5.03.0689        | 
+[01:32:41]  |        By Alex "Y_Less" Cole        | 
+[01:32:41]  |                                     | 
+[01:32:41]  ======================================= 
+[01:32:41]  
+[01:32:41] [MYSQL] Connection established successfully.
+[01:32:41]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:32:41] Number of vehicle models: 0
+[01:33:12] [connection] 192.168.18.9:51006 requests connection cookie.
+[01:33:13] [connection] incoming connection: 192.168.18.9:51006 id: 0
+[01:33:14] [join] traxyy has joined the server (0:192.168.18.9)
+[01:33:21] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:33:28] INSERT INTO `contribution_list` (`NAME`, `DISCORD_ID`) VALUES ('LuciferM', 'LuciferM#3887')
+[01:41:24] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:07] filterscripts = ""  (string)
+[01:42:07] 
+[01:42:07] Server Plugins
+[01:42:07] --------------
+[01:42:07]  Loading plugin: win\pawncmd
+[01:42:07] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:42:07]   Loaded.
+[01:42:07]  Loading plugin: win\regex
+[01:42:07] 
+
+[01:42:07] ______________________________________
+
+[01:42:07]  Regular Expression Plugin v0.2.1 loaded
+[01:42:07] ______________________________________
+
+[01:42:07]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:42:07] ______________________________________
+
+[01:42:07]   Loaded.
+[01:42:07]  Loading plugin: win\sscanf
+[01:42:07] 
+
+[01:42:07]  ===============================
+
+[01:42:07]       sscanf plugin loaded.     
+
+[01:42:07]         Version:  2.10.2        
+
+[01:42:07]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:42:07]  ===============================
+
+[01:42:07]   Loaded.
+[01:42:07]  Loading plugin: win\streamer
+[01:42:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:42:07]   Loaded.
+[01:42:07]  Loading plugin: win\mysql
+[01:42:07]  >> plugin.mysql: R41-4 successfully loaded.
+[01:42:07]   Loaded.
+[01:42:07]  Loaded 5 plugins.
+
+[01:42:07] 
+[01:42:07] Filterscripts
+[01:42:07] ---------------
+[01:42:07]   Loaded 0 filterscripts.
+
+[01:42:07]  
+[01:42:07]  ======================================= 
+[01:42:07]  |                                     | 
+[01:42:07]  |    Optimising code, this may take   | 
+[01:42:07]  |        a little bit of time.        | 
+[01:42:07]  |                                     | 
+[01:42:07]  |            Please wait...           | 
+[01:42:07]  |                                     | 
+[01:42:07]  |=====================================| 
+[01:42:07]  |                                     | 
+[01:42:07]  | Note that these optimisations are   | 
+[01:42:07]  | designed to improve performance     | 
+[01:42:07]  | with the JIT plugin, which you are  | 
+[01:42:07]  | not currently using.  Get it here:  | 
+[01:42:07]  |                                     | 
+[01:42:07]  |      https://git.io/jit-plugin      | 
+[01:42:07]  |                                     | 
+[01:42:07]  ======================================= 
+[01:42:07]  
+[01:42:07]  
+[01:42:07]  
+[01:42:07]  
+[01:42:07]  ======================================= 
+[01:42:07]  |                                     | 
+[01:42:07]  |        YSI version 5.03.0689        | 
+[01:42:07]  |        By Alex "Y_Less" Cole        | 
+[01:42:07]  |                                     | 
+[01:42:07]  ======================================= 
+[01:42:07]  
+[01:42:07] [MYSQL] Connection established successfully.
+[01:42:07]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:42:07] Number of vehicle models: 0
+[01:42:42] [connection] 192.168.18.9:52949 requests connection cookie.
+[01:42:43] [connection] incoming connection: 192.168.18.9:52949 id: 0
+[01:42:43] [join] traxyy has joined the server (0:192.168.18.9)
+[01:43:01] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:44:12] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:44:15] filterscripts = ""  (string)
+[01:44:15] 
+[01:44:15] Server Plugins
+[01:44:15] --------------
+[01:44:15]  Loading plugin: win\pawncmd
+[01:44:15] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:44:15]   Loaded.
+[01:44:15]  Loading plugin: win\regex
+[01:44:15] 
+
+[01:44:15] ______________________________________
+
+[01:44:15]  Regular Expression Plugin v0.2.1 loaded
+[01:44:15] ______________________________________
+
+[01:44:15]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:44:15] ______________________________________
+
+[01:44:15]   Loaded.
+[01:44:15]  Loading plugin: win\sscanf
+[01:44:15] 
+
+[01:44:15]  ===============================
+
+[01:44:15]       sscanf plugin loaded.     
+
+[01:44:15]         Version:  2.10.2        
+
+[01:44:15]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:44:15]  ===============================
+
+[01:44:15]   Loaded.
+[01:44:15]  Loading plugin: win\streamer
+[01:44:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:44:15]   Loaded.
+[01:44:15]  Loading plugin: win\mysql
+[01:44:15]  >> plugin.mysql: R41-4 successfully loaded.
+[01:44:15]   Loaded.
+[01:44:15]  Loaded 5 plugins.
+
+[01:44:15] 
+[01:44:15] Filterscripts
+[01:44:15] ---------------
+[01:44:15]   Loaded 0 filterscripts.
+
+[01:44:15]  
+[01:44:15]  ======================================= 
+[01:44:15]  |                                     | 
+[01:44:15]  |    Optimising code, this may take   | 
+[01:44:15]  |        a little bit of time.        | 
+[01:44:15]  |                                     | 
+[01:44:15]  |            Please wait...           | 
+[01:44:15]  |                                     | 
+[01:44:15]  |=====================================| 
+[01:44:15]  |                                     | 
+[01:44:15]  | Note that these optimisations are   | 
+[01:44:15]  | designed to improve performance     | 
+[01:44:15]  | with the JIT plugin, which you are  | 
+[01:44:15]  | not currently using.  Get it here:  | 
+[01:44:15]  |                                     | 
+[01:44:15]  |      https://git.io/jit-plugin      | 
+[01:44:15]  |                                     | 
+[01:44:15]  ======================================= 
+[01:44:15]  
+[01:44:15]  
+[01:44:15]  
+[01:44:15]  
+[01:44:15]  ======================================= 
+[01:44:15]  |                                     | 
+[01:44:15]  |        YSI version 5.03.0689        | 
+[01:44:15]  |        By Alex "Y_Less" Cole        | 
+[01:44:15]  |                                     | 
+[01:44:15]  ======================================= 
+[01:44:15]  
+[01:44:15] [MYSQL] Connection established successfully.
+[01:44:15]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:44:15] Number of vehicle models: 0
+[01:44:34] [connection] 192.168.18.9:56953 requests connection cookie.
+[01:44:35] [connection] incoming connection: 192.168.18.9:56953 id: 0
+[01:44:36] [join] traxyy has joined the server (0:192.168.18.9)
+[01:44:51] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:45:40] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:46:05] filterscripts = ""  (string)
+[01:46:05] 
+[01:46:05] Server Plugins
+[01:46:05] --------------
+[01:46:05]  Loading plugin: win\pawncmd
+[01:46:05] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:46:05]   Loaded.
+[01:46:05]  Loading plugin: win\regex
+[01:46:05] 
+
+[01:46:05] ______________________________________
+
+[01:46:05]  Regular Expression Plugin v0.2.1 loaded
+[01:46:05] ______________________________________
+
+[01:46:05]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:46:05] ______________________________________
+
+[01:46:05]   Loaded.
+[01:46:05]  Loading plugin: win\sscanf
+[01:46:05] 
+
+[01:46:05]  ===============================
+
+[01:46:05]       sscanf plugin loaded.     
+
+[01:46:05]         Version:  2.10.2        
+
+[01:46:05]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:46:05]  ===============================
+
+[01:46:05]   Loaded.
+[01:46:05]  Loading plugin: win\streamer
+[01:46:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:46:05]   Loaded.
+[01:46:05]  Loading plugin: win\mysql
+[01:46:05]  >> plugin.mysql: R41-4 successfully loaded.
+[01:46:05]   Loaded.
+[01:46:05]  Loaded 5 plugins.
+
+[01:46:05] 
+[01:46:05] Filterscripts
+[01:46:05] ---------------
+[01:46:05]   Loaded 0 filterscripts.
+
+[01:46:05]  
+[01:46:05]  ======================================= 
+[01:46:05]  |                                     | 
+[01:46:05]  |    Optimising code, this may take   | 
+[01:46:05]  |        a little bit of time.        | 
+[01:46:05]  |                                     | 
+[01:46:05]  |            Please wait...           | 
+[01:46:05]  |                                     | 
+[01:46:05]  |=====================================| 
+[01:46:05]  |                                     | 
+[01:46:05]  | Note that these optimisations are   | 
+[01:46:05]  | designed to improve performance     | 
+[01:46:05]  | with the JIT plugin, which you are  | 
+[01:46:05]  | not currently using.  Get it here:  | 
+[01:46:05]  |                                     | 
+[01:46:05]  |      https://git.io/jit-plugin      | 
+[01:46:05]  |                                     | 
+[01:46:05]  ======================================= 
+[01:46:05]  
+[01:46:05]  
+[01:46:05]  
+[01:46:05]  
+[01:46:05]  ======================================= 
+[01:46:05]  |                                     | 
+[01:46:05]  |        YSI version 5.03.0689        | 
+[01:46:05]  |        By Alex "Y_Less" Cole        | 
+[01:46:05]  |                                     | 
+[01:46:05]  ======================================= 
+[01:46:05]  
+[01:46:05] [MYSQL] Connection established successfully.
+[01:46:05]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:46:05] Number of vehicle models: 0
+[01:46:29] [connection] 192.168.18.9:53031 requests connection cookie.
+[01:46:30] [connection] incoming connection: 192.168.18.9:53031 id: 0
+[01:46:30] [join] traxyy has joined the server (0:192.168.18.9)
+[01:46:38] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:47:30] [part] traxyy has left the server (0:1)

@@ -48,3 +48,57 @@ CMD:pl(playerid)
     SendClientMessageFormatted(playerid, -1, COL_RED"[PACKETLOSS]"COL_WHITE" Your packetloss is %0.2f", NetStats_PacketLossPercent(playerid));
     return 1;
 }
+
+CMD:credits(playerid)
+{
+    mysql_tquery(db, "SELECT * FROM `contribution_list`", "OnReadContributions", "i", playerid);
+    return 1;
+}
+
+thread OnReadContributions(playerid)
+{
+    new rows, header[68];
+    header = COL_WHITE"Player Name\t"COL_WHITE"Discord ID\t"COL_WHITE"Status\n";
+    cache_get_row_count(rows);
+    if(!rows)
+    {
+        new result[128];
+        if(IsPlayerAdmin(playerid))
+        {
+            p_isCreditsListEmpty = true;
+            format(result, sizeof(result), "%s"COL_GREEN"+ Add a user in to the list", header);
+            ShowPlayerDialog(playerid, DIALOG_CREDITS, DIALOG_STYLE_TABLIST_HEADERS, COL_WHITE"Contributors to this Server", result, "Add", "Close");
+        }
+        else
+        {
+            format(result, sizeof(result), "%s"COL_RED"There's no-one to show.", header);
+            ShowPlayerDialog(playerid, DIALOG_CREDITS_FOUND_NONE, DIALOG_STYLE_TABLIST_HEADERS, COL_WHITE"Contributors to this Server", result, "Okay", "");
+        }
+    }
+    else
+    {
+        new result[512];
+        for(new i; i < rows; i++)
+        { 
+            new name[24], discord_id[60];
+            cache_get_value_name(i, "NAME", name);
+            cache_get_value_name(i, "DISCORD_ID", discord_id);
+
+            if(IsPlayerConnected(GetPlayerIDFromName(name)))
+            {
+                format(result, sizeof(result), "%s%s\t%s\t"COL_GREEN"Online\n", result, name, discord_id);
+            }
+            else
+            {
+                format(result, sizeof(result), "%s%s\t%s\t"COL_RED"Offline\n", result, name, discord_id);
+            }
+        }
+        p_isCreditsListEmpty = false;
+        if(IsPlayerAdmin(playerid))
+            format(result, sizeof(result), "%s%s\n"COL_GREEN"+ Add a user in to the list", header, result);
+        else
+            format(result, sizeof(result), "%s%s", header, result);
+        ShowPlayerDialog(playerid, DIALOG_CREDITS, DIALOG_STYLE_TABLIST_HEADERS, COL_WHITE"Contributors to this Server", result, "Select", "Close");
+    }
+    return 1;
+}

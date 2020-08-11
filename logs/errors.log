@@ -1,5 +1,0 @@
-[01:19:07] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
-[01:19:07] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
-[01:19:07] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
-[01:19:07] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'dm_server''
-[01:19:36] [plugins/mysql] mysql_format: no value for specifier '%e' passed
