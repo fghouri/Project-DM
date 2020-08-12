@@ -4721,3 +4721,306 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [01:46:30] [join] traxyy has joined the server (0:192.168.18.9)
 [01:46:38] RCON (In-Game): Player #0 (traxyy) has logged in.
 [01:47:30] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:47:33] filterscripts = ""  (string)
+[01:47:33] 
+[01:47:33] Server Plugins
+[01:47:33] --------------
+[01:47:33]  Loading plugin: win\pawncmd
+[01:47:33] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:47:33]   Loaded.
+[01:47:33]  Loading plugin: win\regex
+[01:47:33] 
+
+[01:47:33] ______________________________________
+
+[01:47:33]  Regular Expression Plugin v0.2.1 loaded
+[01:47:33] ______________________________________
+
+[01:47:33]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:47:33] ______________________________________
+
+[01:47:33]   Loaded.
+[01:47:33]  Loading plugin: win\sscanf
+[01:47:33] 
+
+[01:47:33]  ===============================
+
+[01:47:33]       sscanf plugin loaded.     
+
+[01:47:33]         Version:  2.10.2        
+
+[01:47:33]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:47:33]  ===============================
+
+[01:47:33]   Loaded.
+[01:47:33]  Loading plugin: win\streamer
+[01:47:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:47:33]   Loaded.
+[01:47:33]  Loading plugin: win\mysql
+[01:47:33]  >> plugin.mysql: R41-4 successfully loaded.
+[01:47:33]   Loaded.
+[01:47:33]  Loaded 5 plugins.
+
+[01:47:33] 
+[01:47:33] Filterscripts
+[01:47:33] ---------------
+[01:47:33]   Loaded 0 filterscripts.
+
+[01:47:33]  
+[01:47:33]  ======================================= 
+[01:47:33]  |                                     | 
+[01:47:33]  |    Optimising code, this may take   | 
+[01:47:33]  |        a little bit of time.        | 
+[01:47:33]  |                                     | 
+[01:47:33]  |            Please wait...           | 
+[01:47:33]  |                                     | 
+[01:47:33]  |=====================================| 
+[01:47:33]  |                                     | 
+[01:47:33]  | Note that these optimisations are   | 
+[01:47:33]  | designed to improve performance     | 
+[01:47:33]  | with the JIT plugin, which you are  | 
+[01:47:33]  | not currently using.  Get it here:  | 
+[01:47:33]  |                                     | 
+[01:47:33]  |      https://git.io/jit-plugin      | 
+[01:47:33]  |                                     | 
+[01:47:33]  ======================================= 
+[01:47:33]  
+[01:47:33]  
+[01:47:33]  
+[01:47:33]  
+[01:47:33]  ======================================= 
+[01:47:33]  |                                     | 
+[01:47:33]  |        YSI version 5.03.0689        | 
+[01:47:33]  |        By Alex "Y_Less" Cole        | 
+[01:47:33]  |                                     | 
+[01:47:33]  ======================================= 
+[01:47:33]  
+[01:47:33] [MYSQL] Connection established successfully.
+[01:47:33]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:47:33] Number of vehicle models: 0
+[01:47:52] [connection] 192.168.18.9:64360 requests connection cookie.
+[01:47:53] [connection] incoming connection: 192.168.18.9:64360 id: 0
+[01:47:54] [join] traxyy has joined the server (0:192.168.18.9)
+[01:48:01] RCON (In-Game): Player #0 (traxyy) has logged in.
+[01:48:12] INSERT INTO `contribution_list` (`NAME`, `DISCORD_ID`) VALUES ('traxyy', 'traxyy#6154')
+[01:48:20] INSERT INTO `contribution_list` (`NAME`, `DISCORD_ID`) VALUES ('VectorZ_', 'VectorZ__')
+[01:48:22] DELETE FROM `contribution_list` WHERE `NAME` = 'VectorZ_'
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:56:23] filterscripts = ""  (string)
+[00:56:23] 
+[00:56:23] Server Plugins
+[00:56:23] --------------
+[00:56:23]  Loading plugin: win\pawncmd
+[00:56:23] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[00:56:23]   Loaded.
+[00:56:23]  Loading plugin: win\regex
+[00:56:23] 
+
+[00:56:23] ______________________________________
+
+[00:56:23]  Regular Expression Plugin v0.2.1 loaded
+[00:56:23] ______________________________________
+
+[00:56:23]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:56:23] ______________________________________
+
+[00:56:23]   Loaded.
+[00:56:23]  Loading plugin: win\sscanf
+[00:56:23] 
+
+[00:56:23]  ===============================
+
+[00:56:23]       sscanf plugin loaded.     
+
+[00:56:23]         Version:  2.10.2        
+
+[00:56:23]    (c) 2020 Alex "Y_Less" Cole  
+
+[00:56:23]  ===============================
+
+[00:56:23]   Loaded.
+[00:56:23]  Loading plugin: win\streamer
+[00:56:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:56:23]   Loaded.
+[00:56:23]  Loading plugin: win\mysql
+[00:56:24]  >> plugin.mysql: R41-4 successfully loaded.
+[00:56:24]   Loaded.
+[00:56:24]  Loaded 5 plugins.
+
+[00:56:24] 
+[00:56:24] Filterscripts
+[00:56:24] ---------------
+[00:56:24]   Loaded 0 filterscripts.
+
+[00:56:24]  
+[00:56:24]  ======================================= 
+[00:56:24]  |                                     | 
+[00:56:24]  |    Optimising code, this may take   | 
+[00:56:24]  |        a little bit of time.        | 
+[00:56:24]  |                                     | 
+[00:56:24]  |            Please wait...           | 
+[00:56:24]  |                                     | 
+[00:56:24]  |=====================================| 
+[00:56:24]  |                                     | 
+[00:56:24]  | Note that these optimisations are   | 
+[00:56:24]  | designed to improve performance     | 
+[00:56:24]  | with the JIT plugin, which you are  | 
+[00:56:24]  | not currently using.  Get it here:  | 
+[00:56:24]  |                                     | 
+[00:56:24]  |      https://git.io/jit-plugin      | 
+[00:56:24]  |                                     | 
+[00:56:24]  ======================================= 
+[00:56:24]  
+[00:56:24]  
+[00:56:24]  
+[00:56:24]  
+[00:56:24]  ======================================= 
+[00:56:24]  |                                     | 
+[00:56:24]  |        YSI version 5.03.0689        | 
+[00:56:24]  |        By Alex "Y_Less" Cole        | 
+[00:56:24]  |                                     | 
+[00:56:24]  ======================================= 
+[00:56:24]  
+[00:56:24] [MYSQL] Connection established successfully.
+[00:56:24]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[00:56:24] Number of vehicle models: 0
+[01:18:33] [connection] 192.168.18.9:64146 requests connection cookie.
+[01:18:34] [connection] incoming connection: 192.168.18.9:64146 id: 0
+[01:18:34] [join] traxyy has joined the server (0:192.168.18.9)
+[01:18:49] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:18:53] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:18:55] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:18:56] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:18:58] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:18:59] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:00] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:02] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:03] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:10] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:12] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:13] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:14] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:15] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:17] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:19] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:20] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:22] sscanf warning (modules\.\helping_functions.pwn:492): "Format specifier does not match parameter count."
+[01:19:30] [part] traxyy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:25:37] filterscripts = ""  (string)
+[01:25:37] 
+[01:25:37] Server Plugins
+[01:25:37] --------------
+[01:25:37]  Loading plugin: win\pawncmd
+[01:25:37] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[01:25:37]   Loaded.
+[01:25:37]  Loading plugin: win\regex
+[01:25:37] 
+
+[01:25:37] ______________________________________
+
+[01:25:37]  Regular Expression Plugin v0.2.1 loaded
+[01:25:37] ______________________________________
+
+[01:25:37]  By: Fro (c) Copyright <TBG> 2009-2011
+[01:25:37] ______________________________________
+
+[01:25:37]   Loaded.
+[01:25:37]  Loading plugin: win\sscanf
+[01:25:37] 
+
+[01:25:37]  ===============================
+
+[01:25:37]       sscanf plugin loaded.     
+
+[01:25:37]         Version:  2.10.2        
+
+[01:25:37]    (c) 2020 Alex "Y_Less" Cole  
+
+[01:25:37]  ===============================
+
+[01:25:37]   Loaded.
+[01:25:37]  Loading plugin: win\streamer
+[01:25:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:25:37]   Loaded.
+[01:25:37]  Loading plugin: win\mysql
+[01:25:37]  >> plugin.mysql: R41-4 successfully loaded.
+[01:25:37]   Loaded.
+[01:25:37]  Loaded 5 plugins.
+
+[01:25:37] 
+[01:25:37] Filterscripts
+[01:25:37] ---------------
+[01:25:37]   Loaded 0 filterscripts.
+
+[01:25:37]  
+[01:25:37]  ======================================= 
+[01:25:37]  |                                     | 
+[01:25:37]  |    Optimising code, this may take   | 
+[01:25:37]  |        a little bit of time.        | 
+[01:25:37]  |                                     | 
+[01:25:37]  |            Please wait...           | 
+[01:25:37]  |                                     | 
+[01:25:37]  |=====================================| 
+[01:25:37]  |                                     | 
+[01:25:37]  | Note that these optimisations are   | 
+[01:25:37]  | designed to improve performance     | 
+[01:25:37]  | with the JIT plugin, which you are  | 
+[01:25:37]  | not currently using.  Get it here:  | 
+[01:25:37]  |                                     | 
+[01:25:37]  |      https://git.io/jit-plugin      | 
+[01:25:37]  |                                     | 
+[01:25:37]  ======================================= 
+[01:25:37]  
+[01:25:37]  
+[01:25:37]  
+[01:25:37]  
+[01:25:37]  ======================================= 
+[01:25:37]  |                                     | 
+[01:25:37]  |        YSI version 5.03.0689        | 
+[01:25:37]  |        By Alex "Y_Less" Cole        | 
+[01:25:37]  |                                     | 
+[01:25:37]  ======================================= 
+[01:25:37]  
+[01:25:37] [MYSQL] Connection established successfully.
+[01:25:37]  --> Project-DM - Under Development (0.3.7) has been loaded successfully!
+[01:25:37] Number of vehicle models: 0
+[01:26:33] [connection] 192.168.18.9:61729 requests connection cookie.
+[01:26:34] [connection] incoming connection: 192.168.18.9:61729 id: 0
+[01:26:35] [join] traxyy has joined the server (0:192.168.18.9)
+[01:30:48] [part] traxyy has left the server (0:1)

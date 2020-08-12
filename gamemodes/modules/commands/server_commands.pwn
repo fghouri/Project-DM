@@ -102,3 +102,22 @@ thread OnReadContributions(playerid)
     }
     return 1;
 }
+
+CMD:weather(playerid, params[])
+{
+    if(isnull(params)) return SendUsage(playerid, "/weather [WEATHER_ID]");
+    if(!isint(params)) return SendError(playerid, "Weather ID should be numeric.");
+    SetPlayerWeather(playerid, strval(params));
+    SendClientMessageFormatted(playerid, -1, COL_GREEN"[SUCCESS]{FFFFFF} You have changed your weather to %d.", strval(params));
+    return 1;
+}
+
+CMD:settime(playerid, params[])
+{
+    if(isnull(params)) return SendUsage(playerid, "/settime [TIME IN HOURS]");
+    if(!isint(params)) return SendError(playerid, "Time input can only be numeric.");
+    if(0 < strval(params) > 24) return SendError(playerid, "Time input can only be between 0-24 hours.");
+    SetPlayerTime(playerid, strval(params), 0);
+    SendClientMessageFormatted(playerid, -1, COL_GREEN"[SUCCESS]{FFFFFF} You have set your time to %d:00.", strval(params));
+    return 1;
+}
