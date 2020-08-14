@@ -10,11 +10,13 @@
 #include <YSI_Data\y_iterate>
 #include <YSI_Coding\y_hooks>
 #include <YSI_Coding\y_va>
+#include <YSI_Coding\y_timers>
 
 // Continue
 #include <a_mysql>
 #include <Pawn.CMD>
 #include <sscanf2>
+#include <foreach>
 #include <streamer>
 #include <regex>
 #include <strlib>
@@ -55,11 +57,13 @@ public OnPlayerRequestClass(playerid, classid)
 
 public OnPlayerConnect(playerid)
 {
+	SendDeathMessage(INVALID_PLAYER_ID, playerid, 200);
 	return 1;
 }
 
 public OnPlayerDisconnect(playerid, reason)
 {
+	SendDeathMessage(INVALID_PLAYER_ID, playerid, 201);
 	return 1;
 }
 

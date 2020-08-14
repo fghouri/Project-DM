@@ -5,5 +5,6 @@
 
 /* ** Sub-folders ** */
 #include ".\server_config\__server_config.pwn"
-#include ".\commands\__commands.pwn"
 #include ".\authentication\__authentication.pwn"
+#include ".\features\__features.pwn"
+#include ".\commands\__commands.pwn"

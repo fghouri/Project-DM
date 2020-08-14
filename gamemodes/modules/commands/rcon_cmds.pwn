@@ -1,3 +1,5 @@
+#include <YSI_Coding\y_hooks>
+
 hook OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
     // Edit credits list for RCON
@@ -55,7 +57,7 @@ hook OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 
         p_isCreditsListEmpty = false;
 
-        return pc_cmd_credits(playerid), 1;
+        return pc_cmd_contributions(playerid), 1;
     }
     return 1;
 }

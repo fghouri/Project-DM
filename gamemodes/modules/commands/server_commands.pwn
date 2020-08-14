@@ -49,7 +49,7 @@ CMD:pl(playerid)
     return 1;
 }
 
-CMD:credits(playerid)
+CMD:contributions(playerid)
 {
     mysql_tquery(db, "SELECT * FROM `contribution_list`", "OnReadContributions", "i", playerid);
     return 1;
@@ -103,9 +103,9 @@ thread OnReadContributions(playerid)
     return 1;
 }
 
-CMD:weather(playerid, params[])
+CMD:setweather(playerid, params[])
 {
-    if(isnull(params)) return SendUsage(playerid, "/weather [WEATHER_ID]");
+    if(isnull(params)) return SendUsage(playerid, "/setweather [WEATHER_ID]");
     if(!isint(params)) return SendError(playerid, "Weather ID should be numeric.");
     SetPlayerWeather(playerid, strval(params));
     SendClientMessageFormatted(playerid, -1, COL_GREEN"[SUCCESS]{FFFFFF} You have changed your weather to %d.", strval(params));
@@ -119,5 +119,41 @@ CMD:settime(playerid, params[])
     if(0 < strval(params) > 24) return SendError(playerid, "Time input can only be between 0-24 hours.");
     SetPlayerTime(playerid, strval(params), 0);
     SendClientMessageFormatted(playerid, -1, COL_GREEN"[SUCCESS]{FFFFFF} You have set your time to %d:00.", strval(params));
+    return 1;
+}
+CMD:afklist(playerid)
+{
+    erase(szHugeString);
+    new afk_players = 0,
+    header[38] = COL_WHITE"Player\t"COL_WHITE"AFK For\n";
+    foreach(new i : Player)
+    {
+        if(IsPlayerAFK(i))
+        {
+            format(szHugeString, sizeof(szHugeString), "%s%s(%d)\t%s\n", szHugeString, ReturnPlayerName(i), i, secondstotime(playerupdate[i]));
+            afk_players++;
+        }
+    }
+    if(afk_players == 0) return SendError(playerid, "There are no {00CDFF}AFK{FFFFFF} players at the moment.");
+    format(szHugeString, sizeof(szHugeString), "%s%s", header, szHugeString);
+    if(afk_players == 1)
+        ShowPlayerDialog(playerid, DIALOG_AFK_LIST, DIALOG_STYLE_TABLIST_HEADERS, sprintf("There's only %d player AFK", afk_players), szHugeString, "Okay", "");
+    else
+        ShowPlayerDialog(playerid, DIALOG_AFK_LIST, DIALOG_STYLE_TABLIST_HEADERS, sprintf("There are only %d players AFK", afk_players), szHugeString, "Okay", "");
+    return 1;
+}
+
+CMD:idletime(playerid, params[]) return pc_cmd_isafk(playerid, params);
+CMD:isafk(playerid, params[])
+{
+    new tID;
+    if(sscanf(params, "u", tID)) return SendUsage(playerid, "/isafk/idletime [PLAYER_ID]");
+    else if(!IsPlayerConnected(tID) || IsPlayerNPC(tID)) return SendError(playerid, "Invalid Player ID.");
+    else{
+        if(IsPlayerAFK(tID)) return SendClientMessageFormatted(playerid, -1, "{00CDFF}[AFK]{FFFFFF} %s(%d) is AFK for %s seconds.", ReturnPlayerName(tID), tID, secondstotime(playerupdate[tID]));
+        else{
+            SendClientMessageFormatted(playerid, -1, "{00CDFF}[AFK]{FFFFFF} %s(%d) is not AFK.", ReturnPlayerName(tID), tID);
+        }
+    }
     return 1;
 }
