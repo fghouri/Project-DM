@@ -3,27 +3,16 @@
 #define MAX_AFK_TIME 			30 //in Minutes!
 #define LABEL_DRAW_DISTANCE     50.0
 
-hook OnGameModeInit()
-{
- 	for(new playerid; playerid < MAX_PLAYERS; playerid++)
- 	{
-		AFKLabel[playerid] = Create3DTextLabel(" ",0x000000,0.0,0.0,0.0,LABEL_DRAW_DISTANCE,0,1);
-	}
-	return 1;
-}
-
-hook OnGameModeExit()
-{
-	foreach(new i : Player)
-	{
-		Delete3DTextLabel(AFKLabel[i]);
-	}
-	return 1;
-}
-
 hook OnPlayerConnect(playerid)
 {
+	AFKLabel[playerid] = Create3DTextLabel(" ",0x000000,0.0,0.0,0.0,LABEL_DRAW_DISTANCE,0,1);
 	Attach3DTextLabelToPlayer(AFKLabel[playerid], playerid, 0.0, 0.0, 1.0);
+	return 1;
+}
+
+hook OnPlayerDisconnect(playerid, reason)
+{
+	Delete3DTextLabel(AFKLabel[playerid]);
 	return 1;
 }
 
