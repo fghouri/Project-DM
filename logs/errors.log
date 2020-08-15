@@ -1,2 +1,2 @@
-[02:34:03] [plugins/mysql] mysql_format: no value for specifier '%e' passed
-[02:34:03] [plugins/mysql] error #1065 while executing query "": Query was empty
+[03:02:09] [plugins/mysql] mysql_format: no value for specifier '%e' passed
+[03:02:09] [plugins/mysql] error #1065 while executing query "": Query was empty

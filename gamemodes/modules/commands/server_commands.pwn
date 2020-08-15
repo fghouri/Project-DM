@@ -157,3 +157,18 @@ CMD:isafk(playerid, params[])
     }
     return 1;
 }
+
+CMD:cmds(playerid) return pc_cmd_commands(playerid);
+CMD:commands(playerid)
+{
+    new header[42] = COL_WHITE"Command\t"COL_WHITE"Purpose\n";
+    format(szHugeString, sizeof(szHugeString), "%s/p(acket)l(oss)\tShow player's packetloss\n\
+        /pinfo\tShow X player's information such as ping, pl, fps\n\
+        /isafk\tUsed to tell if a player is AFK or not\n\
+        /idletime\tUsed to tell if a player is AFK or not\n\
+        /settime\tUsed to set player's time\n\
+        /setweather\tUsed to set player's weather\n\
+        /contributions\tUsed to show a list of players who have contributed in the server\n", header);
+    ShowPlayerDialog(playerid, DIALOG_CMDS, DIALOG_STYLE_TABLIST_HEADERS, COL_GOLD"Commands Lists", szHugeString, "Okay", "");
+    return 1;
+}

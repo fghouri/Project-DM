@@ -7,3 +7,4 @@
 #define DIALOG_CREDITS_ADD_PLAYER_DISCORD       7 + 1000
 #define DIALOG_CREDITS_FOUND_NONE               8 + 1000
 #define DIALOG_AFK_LIST                         9 + 1000
+#define DIALOG_CMDS                             10 + 1000
