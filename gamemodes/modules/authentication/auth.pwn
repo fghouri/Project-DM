@@ -18,6 +18,14 @@ hook OnPlayerConnect(playerid)
     return 1;
 }
 
+hook OnPlayerDisconnect(playerid, reason)
+{
+    p_AccountID[playerid] = -1;
+    p_PasswordAttempts[playerid] = 0;
+    p_PlayerName[playerid][0] = EOS;
+    p_PlayerIP[playerid][0] = EOS;
+}
+
 thread OnPlayerConnectCheck(playerid)
 {
     new rows;
