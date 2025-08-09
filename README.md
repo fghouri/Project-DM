@@ -1,2 +1,2 @@
 ## Project-DM
-Future Deathmatch based gamemode
+Abandoned
